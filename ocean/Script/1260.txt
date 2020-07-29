@@ -1,0 +1,240 @@
+12601001	一个同学已经去买电了。
+	yi2 ge4 tong2 xue2 yi3 jing1 qu4 mai3 dian4 le5
+12601002	一个连酒都不会喝的还在这装男人。
+	yi2 ge4 lian2 jiu3 dou1 bu2 hui4 he1 de5 hai2 zai4 zhe4 zhuang1 nan2 ren5
+12601003	一大堆事情等着我做呢。
+	yi2 da4 dui1 shi4 qing2 deng3 zhe5 wo3 zuo4 ne5
+12601004	上次上课我说实现了<J>自</J>身价值才算成功。
+	shang4 ci4 shang4 ke4 wo3 shuo1 shi2 xian4 le5 zi4 shen1 jia4 zhi2 cai2 suan4 cheng2 gong1
+12601005	<H></H>也有非常恼怒的。
+	ye2 you3 fei1 chang2 nao3 nu4 de5
+12601006	书是人类进步的阶梯。
+	shu1 shi4 ren2 lei4 jin4 bu4 de5 jie1 ti1
+12601007	今天早上去哪上机。
+	jin1 tian1 zao3 shang4 qu4 na3 shang4 ji1
+12601008	今年发了论文，明年才能毕业。
+	jin1 nian2 fa1 le5 lun4 wen2 ming2 nian2 cai2 neng2 bi4 ye4
+12601009	<D></D>他俩总找我别扭。
+	ta1 liang3 zong2 zhao2 wo3 bie4 niu5
+12601010	<D></D>他可从来没让我去看看。
+	ta1 ke3 cong2 lai2 mei2 rang4 wo3 qu4 kan4 kan5
+12601011	他在哪里买摩托车呢。
+	ta1 zai4 na4 li2 mai3 mo2 tuo1 che1 ne5
+12601012	这个人很是抠门的。
+	zhe4 ge4 ren2 hen3 shi4 kou1 men2 de5
+12601013	以及各种凉拌菜。
+	yi3 ji2 ge4 zhong3 liang2 ban4 cai4
+12601014	<D></D>估计他得把其它小朋友欺负死。
+	gu1 ji4 ta1 dei2 ba3 qi2 ta1 xiao3 peng2 you3 qi1 fu4 si3
+12601015	但在单位里不好多说。
+	dan4 zai4 dan1 wei4 li3 bu4 hao3 duo1 shuo1
+12601016	但它的各种保险费用还是从工资当中出的。
+	dan4 ta1 de5 ge4 zhong3 bao2 xian3 fei4 yong4 hai2 shi4 cong2 gong1 zi1 dang1 zhong1 chu1 de5
+12601017	<D></D>但感情却总是勉强不来的。
+	dan4 gan3 qing2 que4 zong3 shi4 mian2 qiang2 bu4 lai2 de5
+12601018	<D></D>你下班回来捎两条鱼。
+	ni3 xia4 ban1 hui2 lai2 shao1 liang3 tiao2 yu2
+12601019	你们俩发短信呢。
+	ni3 men5 lia3 fa4 duan3 xin4 ne5
+12601020	<D></D>你就别买那么多了。
+	ni3 jiu4 bie2 mai3 na4 me5 duo1 le5
+12601021	你就知道你个老奸巨滑的东西。
+	ni3 jiu4 zhi1 dao4 ni3 ge4 lao3 jian1 ju4 hua2 de5 dong1 xi5
+12601022	<D></D>你建议一个比较实惠的地方。
+	ni3 jian4 yi4 yi2 ge4 bi2 jiao3 shi2 hui4 de5 di4 fang1
+12601023	<D></D>你这样比你还要难过呀。
+	ni3 zhe4 yang4 bi2 ni3 hai2 yao4 nan2 guo4 ya5
+12601024	<H></H>光上山时等缆车的索道就等了一个小时。
+	guang1 shang4 shan1 shi2 deng2 lan3 che1 de5 suo3 dao4 jiu4 deng3 le5 yi2 ge4 xiao3 shi2
+12601025	<D></D>六点回办公室画图。
+	liu4 dian3 hui2 ban4 gong1 shi3 hua4 tu2
+12601026	<D></D>十八岁就像八十似的。
+	shi2 ba1 sui4 jiu4 xiang4 ba1 shi2 si4 de5
+12601027	去年我去香港了。
+	qu4 nian2 wo3 qu4 xiang1 gang3 le5
+12601028	古龙的一部小说。
+	gu3 long2 de5 yi2 bu4 xiao3 shuo1
+12601029	只怕耽误你的时间。
+	zhi3 pa4 dan1 wu4 ni3 de5 shi2 jian1
+12601030	<D></D>只是普通朋友不和你吵，聊天也是一种放松。
+	zhi3 shi4 pu3 tong1 peng2 you3 bu4 he2 ni2 chao3 liao2 tian1 ye3 shi4 yi1 zhong3 fang4 song1
+12601031	只能一个人上呀。
+	zhi3 neng2 yi2 ge4 ren2 shang4 ya5
+12601032	可以治疗一些皮肤病之类的东西。
+	ke2 yi3 zhi4 liao2 yi4 xie1 pi2 fu1 bing4 zhi1 lei4 de5 dong1 xi5
+12601033	多多就是你老婆。
+	duo1 duo1 jiu4 shi4 ni2 lao3 po5
+12601034	<D></D>大家转发给你并不是非让你在转发。
+	da4 jia1 zhuan3 fa1 gei2 ni3 bing4 bu2 shi4 fei1 rang4 ni3 zai4 zhuan3 fa1
+12601035	天生我材必有用。
+	tian1 sheng1 wo3 cai2 bi4 you3 yong4
+12601036	女中豪杰武则天。
+	nv3 zhong1 hao2 jie2 wu3 ze2 tian1
+12601037	<D></D>她上学需要很大一笔费用。
+	ta1 shang4 xue2 xu1 yao4 hen3 da4 yi4 bi3 fei4 yong4
+12601038	她慢慢的变得可爱了。
+	ta1 man4 man1 de5 bian4 de2 ke3 ai4 le5
+12601039	她那情感的控制和掩饰其实也很痛苦。
+	ta1 na4 qing2 gan3 de5 kong4 zhi4 he2 yan3 shi4 qi2 shi2 ye2 hen3 tong4 ku3
+12601040	它在清代是北京闹市之中的一块清静之地呀。
+	ta1 zai4 qing1 dai4 shi4 bei3 jing1 nao4 shi4 zhi1 zhong1 de5 yi2 kuai4 qing1 jing4 zhi1 di4 ya5
+12601041	就是不吃零食她也不吃饭。
+	jiu4 shi4 bu4 chi1 ling2 shi2 ta1 ye3 bu4 chi1 fan4
+12601042	就是不好，哥哥你也得收着啊。
+	jiu4 shi4 bu4 hao3 ge1 ge5 ni3 ye2 dei3 shou1 zhe5 a5
+12601043	当然烦恼的原因也有别的很多因素。
+	dang1 ran2 fan2 nao3 de5 yuan2 yin1 ye2 you3 bie2 de5 hen3 duo1 yin1 su4
+12601044	怎么着也得有一个了解过程啊。
+	zen3 me5 zhao1 ye2 dei2 you3 yi2 ge4 liao2 jie3 guo4 cheng2 a5
+12601045	怕你们不认识我，把我丢了。
+	pa4 ni3 men5 bu2 ren4 shi5 wo3 ba2 wo3 diu1 le5
+12601046	<D></D>愿阳光鲜花洒满你的人生旅程。
+	yuan4 yang2 guang1 xian1 hua1 sa2 man2 ni3 de5 ren2 sheng1 lv3 cheng2
+12601047	慢慢吃吧，你怎么也得留着一袋子呀。
+	man4 man1 chi1 ba5 ni2 zen3 me5 ye2 dei3 liu2 zhe5 yi2 dai4 zi5 ya5
+12601048	我也就剩这么一个痴心朋友了。
+	wo2 ye3 jiu4 sheng4 zhe4 me5 yi2 ge4 chi1 xin1 peng2 you3 le5
+12601049	我们公司经理是外国人。
+	wo3 men5 gong1 si1 jing1 li3 shi4 wai4 guo2 ren2
+12601050	我们搞封建迷信给他们看热闹。
+	wo3 men5 gao3 feng1 jian4 mi2 xin4 gei3 ta1 men5 kan4 re4 nao4
+12601051	<D></D>我们要珍爱我们的生命，我们要努力。
+	wo3 men5 yao4 zhen1 ai4 wo3 men5 de5 sheng1 ming4 wo3 men5 yao4 nu3 li4
+12601052	我们这里没暖气。
+	wo3 men5 zhe4 li3 mei2 nuan3 qi4
+12601053	我只有这个帐号。
+	wo3 zhi2 you3 zhe4 ge5 zhang4 hao4
+12601054	我可以和他各论各叫。
+	wo2 ke2 yi3 he2 ta1 ge4 lun4 ge4 jiao4
+12601055	我听他偷偷对我说过。
+	wo3 ting1 ta1 tou1 tou1 dui4 wo3 shuo1 guo4
+12601056	我在附近和同事租的房子。
+	wo3 zai4 fu4 jin4 he2 tong2 shi4 zu1 de5 fang2 zi5
+12601057	我外公昨天走了。
+	wo3 wai4 gong1 zuo2 tian1 zou3 le5
+12601058	<D></D>我家现在是两边抢着要带。
+	wo3 jia1 xian4 zai4 shi4 liang3 bian1 qiang3 zhe5 yao4 dai4
+12601059	<D></D>我小时候就很喜欢画画的。
+	wo2 xiao3 shi2 hou4 jiu4 hen2 xi3 huan1 hua4 hua4 de5
+12601060	我没见过你复习功课。
+	wo3 mei2 jian4 guo4 ni3 fu4 xi2 gong1 ke4
+12601061	我就知道你在家里闷不住。
+	wo3 jiu4 zhi1 dao4 ni3 zai4 jia1 li3 men4 bu2 zhu4
+12601062	我就知道咱们人民警察为咱们人民做主。
+	wo3 jiu4 zhi1 dao4 zan2 men5 ren2 min2 jing3 cha2 wei4 zan2 men5 ren2 min2 zuo4 zhu3
+12601063	我想在八月份的第一个星期休假。
+	wo2 xiang3 zai4 ba1 yue4 fen4 de5 di4 yi1 ge4 xing1 qi1 xiu1 jia4
+12601064	我想这本书对他们的成长一定会起到启示的作用。
+	wo2 xiang3 zhe4 ben3 shu1 dui4 ta1 men5 de5 cheng2 zhang3 yi2 ding4 hui4 qi3 dao4 qi3 shi4 de5 zuo4 yong4
+12601065	明天的时候给你上网查一下后给你发过去。
+	ming2 tian1 de5 shi2 hou4 gei2 ni3 shang4 wang3 cha2 yi2 xia4 hou4 gei2 ni3 fa1 guo4 qu4
+12601066	<D></D>我有时候用另外一个名字。
+	wo2 you3 shi2 hou4 yong4 ling4 wai4 yi2 ge4 ming2 zi5
+12601067	我来时你妈妈还让我告诉你，有时间回去看看。
+	wo3 lai2 shi2 ni3 ma1 ma1 hai2 rang4 wo3 gao4 su4 ni3 you3 shi2 jian1 hui2 qu4 kan4 kan5
+12601068	我真想听听你的声音。
+	wo3 zhen1 xiang3 ting1 ting1 ni3 de5 sheng1 yin1
+12601069	我被长今整整迷住了一个星期。
+	wo3 bei4 chang2 jin1 zheng2 zheng3 mi2 zhu4 le5 yi2 ge4 xing1 qi1
+12601070	我觉得自从咱家有了耗子。
+	wo3 jue2 de2 zi4 cong2 zan2 jia1 you3 le5 hao4 zi5
+12601071	<D></D>我请大家去吃火锅。
+	wo2 qing3 da4 jia1 qu4 chi1 huo3 guo1
+12601072	我跟三妹最好。
+	wo3 gen1 san1mei4 zui4 hao3
+12601073	<H></H>我跟你大哥有钱哪。
+	wo3 gen1 ni3 da4 ge1 you3 qian2 na5
+12601074	我还是比较喜欢原来的那个。
+	wo3 hai2 shi4 bi2 jiao2 xi3 huan1 yuan2 lai2 de5 na4 ge4
+12601075	我问你是怎么避孕的。
+	wo3 wen4 ni3 shi4 zen3 me5 bi4 yun4 de5
+12601076	我随时都有倒下去的可能。
+	wo3 sui2 shi2 dou1 you2 dao3 xia4 qu4 de5 ke3 neng2
+12601077	<H></H>手里有几套房子。
+	shou2 li3 you2 ji3 tao4 fang2 zi5
+12601078	把你自己输进去你就不玩了。
+	ba2 ni3 zi4 ji3 shu1 jin4 qu4 ni3 jiu4 bu4 wan2 le5
+12601079	把她丢给一个她不爱的男人。
+	ba3 ta1 diu1 gei3 yi2 ge4 ta1 bu2 ai4 de5 nan2 ren5
+12601080	整个人都愣在那里。
+	zheng3 ge4 ren2 dou1 leng4 zai4 na4 li3
+12601081	文中所述很多事情我都干过。
+	wen2 zhong1 suo3 shu4 hen3 duo1 shi4 qing2 wo3 dou1 gan4 guo4
+12601082	<H></H>时间下班后再定。
+	shi2 jian1 xia4 ban1 hou4 zai4 ding4
+12601083	<D></D>最好直接汇给他们自己。
+	zui4 hao3 zhi2 jie1 hui4 gei3 ta1 men5 zi4 ji3
+12601084	有个法国片好像叫《罪恶城市》的好像比较暴力。
+	you3 ge4 fa3 guo2 pian4 hao3 xiang4 jiao4 zui4 e4 cheng2 shi4 de5 hao3 xiang4 bi2 jiao3 bao4 li4
+12601085	有些名牌大学生说起话来还那么没大没小的。
+	you3 xie1 ming2 pai2 da4 xue2 sheng1 shuo1 qi3 hua4 lai5 hai2 na4 me5 mei2 da4 mei2 xiao3 de5
+12601086	是我们的兄弟单位的事情。
+	shi4 wo3 men5 de5 xiong1 di4 dan1 wei4 de5 shi4 qing5
+12601087	每个人的腰部趟在另一个人的腿上。
+	mei3 ge4 ren2 de5 yao1 bu4 tang1 zai4 ling4 yi2 ge4 ren2 de5 tui3 shang4
+12601088	<D></D>狂奔的蜗牛对他说的。
+	kuang2 ben1 de5 wo1 niu2 dui4 ta1 shuo1 de5
+12601089	现在我已经大概知道了情况。
+	xian4 zai4 wo2 yi3 jing1 da4 gai4 zhi1 dao4 le5 qing2 kuang4
+12601090	看了很多的石窟。
+	kan4 le5 hen3 duo1 de5 shi2 ku1
+12601091	看半天也看不够。
+	kan4 ban4 tian1 ye3 kan4 bu2 gou4
+12601092	看来今天这电对你没起了作用。
+	kan4 lai2 jin1 tian1 zhe4 dian4 dui4 ni3 mei2 qi3 le5 zuo4 yong4
+12601093	第三张看上去很像青少年。呵呵。
+	di4 san1 zhang1 kan4 shang4 qu4 hen3 xiang4 qing1 shao4 nian2 he1 he5
+12601094	<D></D>要不俺就哭着喊着来上网了。
+	yao4 bu5 an3 jiu4 ku1 zhe5 han3 zhe5 lai2 shang4 wang3 le5
+12601095	要不其它的他帮我回家打吧。
+	yao4 bu5 qi2 ta1 de5 ta1 bang1 wo3 hui2 jia1 da3 ba5
+12601096	觉得老外干活确实是挺蛮力。
+	jue2 de2 lao3 wai4 gan4 huo2 que4 shi2 shi4 ting3 man2 li4
+12601097	说到底还是为了钱。
+	shuo1 dao4 di3 hai2 shi4 wei4 le5 qian2
+12601098	谁叫咱当年读大学的时候是校队主力替补中场呢。
+	shui2 jiao4 zan2 dang1 nian2 du2 da4 xue2 de5 shi2 hou4 shi4 xiao4 dui4 zhu3 li4 ti4 bu3 zhong1 chang3 ne5
+12601099	跟一个同事去芍药居。
+	gen1 yi2 ge4 tong2 shi4 qu4 shao2 yao4 ju1
+12601100	跟我们家伟子一般大。
+	gen1 wo3 men5 jia1 wei3 zi5 yi4 ban1 da4
+12601101	<D></D>这学期奖学金已经评定了。
+	zhe4 xue2 qi1 jiang3 xue2 jin1 yi3 jing1 ping2 ding4 le5
+12601102	<D></D>这是哪个人提出的可行性研究报告。
+	zhe4 shi4 na3 ge4 ren2 ti2 chu1 de5 ke3 xing2 xing4 yan2 jiu1 bao4 gao4
+12601103	这次参与的人数可能比较多。
+	zhe4 ci4 can1 yu3 de5 ren2 shu4 ke3 neng2 bi2 jiao3 duo1
+12601104	这部电视剧很值得一看。
+	zhe4 bu4 dian4 shi4 ju4 hen3 zhi2 de2 yi2 kan4
+12601105	那你当时为什么没钱领用单。
+	na4 ni3 dang1 shi2 wei4 shen2 me5 mei2 qian2 ling3 yong4 dan1
+12601106	<D></D>那家厨子的老板娘人很好。
+	na4 jia1 chu2 zi3 de5 lao2 ban3 niang2 ren2 hen2 hao3
+12601107	<D></D>都觉着月底弄出初稿够呛。
+	dou1 jue2 zhe5 yue4 di3 nong4 chu1 chu1 gao3 gou4 qiang4
+12601108	<D></D>阿香就更不在他眼里了。
+	a1 xiang1 jiu4 geng4 bu2 zai4 ta1 yan2 li3 le5
+12601109	青春不能用年龄来衡定。
+	qing1 chun1 bu4 neng2 yong4 nian2 ling2 lai2 heng2 ding4
+12601110	香皂两块、肥皂一块。
+	xiang1 zao4 liang3 kuai4 fei2 zao4 yi2 kuai4
+12601111	别忘了吃药，好好修养，祝你早日康复！
+	bie2 wang4 le5 chi1 yao4 hao3 hao1 xiu1 yang3 zhu4 ni2 zao3 ri4 kang1 fu4
+12601112	干吗？我在办公室上网呢，你好好做实验吧，一定会成功吧<H></H>，祝你成功。
+	gan4 ma2 wo3 zai4 ban4 gong1 shi4 shang4 wang3 ne5 ni2 hao3 hao1 zuo4 shi2 yan4 ba5 yi2 ding4 hui4 cheng2 gong1 ba5 zhu4 ni3 cheng2 gong1
+12601113	很想念你，希望你经常来呀。
+	hen2 xiang3 nian4 ni3 xi1 wang4 ni3 jing1 chang2 lai2 ya5
+12601114	恭喜你，祝你们幸福。
+	gong1 xi2 ni3 zhu4 ni3 men5 xing4 fu2
+12601115	爱无边，情更深，祝你们幸福美满！
+	ai4 wu2 bian1 qing2 geng4 shen1 zhu4 ni3 men5 xing4 fu2 mei2 man3
+12601116	<D></D>爱是宽大的，若你不爱我，只希望你快乐。
+	ai4 shi4 kuan1 da4 de5 ruo4 ni3 bu2 ai4 wo3 zhi3 xi1 wang4 ni3 kuai4 le4
+12601117	祝你们早生贵子啦，结婚时一定好多同学去吧?
+	zhu4 ni3 men5 zao3 sheng1 gui4 zi3 la5 jie2 hun1 shi2 yi2 ding4 hao3 duo1 tong2 xue2 qu4 ba5
+12601118	祝你在繁忙的生活中，天天开心，快乐！
+	zhu4 ni3 zai4 fan2 mang2 de5 sheng1 huo2 zhong1 tian1 tian1 kai1 xin1 kuai4 le4
+12601119	祝你天天快乐，永远都幸福。
+	zhu4 ni3 tian1 tian1 kuai4 le4 yong2 yuan3 dou1 xing4 fu2
+12601120	祝福你新年快乐，万事如意！
+	zhu4 fu2 ni3 xin1 nian2 kuai4 le4 wan4 shi4 ru2 yi4

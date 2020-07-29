@@ -1,0 +1,240 @@
+11961031	不想去王府井，太贵了，咱们去金五星看看吧。
+	bu4 xiang3 qv4 wang2 fu2 jing3 tai4 gui4 le5 zan2 men5 qv4 jin1 wu3 xing1 kan4 kan4 ba5
+11961032	带着盈盈相思，带着温馨祈愿，祝福你圣诞快乐！
+	dai4 zhe5 ying2 ying2 xiang1 si1 dai4 zhe5 wen1 xin1 qi2 yvan4 zhu4 fu2 ni3 sheng4 dan4 kuai4 le4
+11961033	对了，坐车还得把票留着，报销时会计要做帐。
+	dui4 le5 zuo4 che1 hai2 dei2 ba3 piao4 liu2 zhe5 bao4 xiao1 shi2 kuai4 ji4 yao4 zuo4 zhang4
+11961034	给谁发短信呢？
+	gei3 shei2 fa1 duan3 xin4 ne5
+11961035	好吧，不要忘记。
+	hao3 ba5 bu2 yao4 wang4 ji4
+11961036	呵呵，我知道了，我会努力的。
+	he1 he4 wo3 zhi1 dao4 le5 wo3 hui4 nu3 li4 de5
+11961037	机票和酒店均已安排好，请准时到达。
+	ji1 piao4 he2 jiu3 dian4 jvn1 yi3 an1 pai2 hao3 qing2 zhun3 shi2 dao4 da2
+11961038	今天中午打羽毛球了，不错，挺舒服的。
+	jin1 tian1 zhong1 wu3 da2 yv3 mao2 qiu2 le5 bu2 cuo4 ting3 shu1 fu5 de5
+11961039	来吧！一起跳舞去，跟着音乐跳起来，尽情释放青春的热力！
+	lai2 ba5 yi4 qi3 tiao4 wu3 qv4 gen1 zhe5 yin1 yve4 tiao4 qi3 lai2 jin4 qing2 shi4 fang4 qing1 chun1 de5 re4 li4
+11961040	<H></H>没事啦，刚刚看见，回得晚了点。
+	mei2 shi4 la5 gang1 gang1 kan4 jian4 hui2 de2 wan3 le5 dian3
+11961041	那就好吧，我要是过关，我就接着报名学。
+	na4 jiu4 hao3 ba5 wo3 yao4 shi4 guo4 guan1 wo3 jiu4 jie1 zhe5 bao4 ming2 xve2
+11961042	你把我光盘放在哪里了？
+	ni2 ba2 wo3 guang1 pan2 fang4 zai4 na2 li3 le5
+11961043	<H></H>你好，下班了吗？吃饭了吗？好好休息，工作好心情！
+	ni2 hao3 xia4 ban1 le5 ma5 chi1 fan4 le5 ma5 hao3 hao1 xiu1 xi5 gong1 zuo4 hao3 xin1 qing2
+11961044	你那有咳嗽药吗？
+	ni3 na4 you3 ke2 sou4 yao4 ma5
+11961045	你要是不回来我就该不认识你了。
+	ni3 yao4 shi4 bu4 hui2 lai2 wo3 jiu4 gai1 bu2 ren4 shi2 ni3 le5
+11961046	您是灵魂的工程师！我们永远<K></K>尊敬您，热爱您！
+	nin2 shi4 ling2 hun2 de5 gong1 cheng2 shi1 wo3 men2 yong2 yvan3 zun1 jing4 nin2 re4 ai4 nin2
+11961047	全刚已经弹尽粮绝了。
+	qvan2 gang1 yi3 jing1 dan4 jin4 liang2 jve2 le5
+11961048	什么事让您如此兴奋？
+	shen2 me5 shi4 rang4 nin2 ru2 ci3 xing4 fen4
+11961049	虽然我不在你的身边，但是我的祝福却在你的耳边。
+	sui1 ran2 wo3 bu2 zai4 ni3 de5 shen1 bian1 dan4 shi4 wo3 de5 zhu4 fu2 qve4 zai4 ni3 de5 er3 bian1
+11961050	外面的风太大了，是沙尘暴吧。
+	wai4 mian4 de5 feng1 tai4 da4 le5 shi4 sha1 chen2 bao4 ba5
+11961051	我到了，嘿嘿。
+	wo3 dao4 le5 hei1 hei5
+11961052	我会来的，我向您保证。
+	wo3 hui4 lai2 de5 wo3 xiang4 nin2 bao3 zheng4
+11961053	<H></H>我们传说放三天，明天不上班。
+	wo3 men5 chuan2 shuo1 fang4 san1 tian1 ming2 tian1 bu2 shang4 ban1
+11961054	我上午在财智，下午在华清<D></D>，有事给我打手机！
+	wo3 shang4 wu3 zai4 cai2 zhi4 xia4 wu3 zai4 hua2 qing1 you3 shi4 gei2 wo2 da2 shou3 ji1
+11961055	我想应该没问题吧，你这吃饭够晚的啦。
+	wo2 xiang3 ying1 gai1 mei2 wen4 ti2 ba5 ni3 zhe4 chi1 fan4 gou4 wan3 de5 la5
+11961056	我在七车厢，不过没什么东西，不用上来了。
+	wo3 zai4 qi1 che1 xiang1 bu2 guo4 mei2 shen2 me5 dong1 xi5 bu2 yong4 shang4 lai2 le5
+11961057	下班后，我去接你。
+	xia4 ban1 hou4 wo3 qv4 jie1 ni3
+11961058	谢谢你们了，离我住的地方很近！
+	xie4 xie4 ni3 men5 le5 li2 wo3 zhu4 de5 di4 fang1 hen3 jin4
+11961059	一起去滑雪吧。
+	yi4 qi3 qv4 hua2 xve3 ba5
+11961060	晕，我还得填表呢。
+	yvn1 wo3 huan2 dei3 tian2 biao3 ne5
+11961061	这个问题在今晚解决。
+	zhei4 ge5 wen4 ti2 zai4 jin1 wan2 jie3 jve2
+11961062	<D></D>中央八开始演了。
+	zhong1 yang1 ba1 kai1 shi2 yan3 le5
+11961063	做完先发给我一份吧。
+	zuo4 wan2 xian1 fa1 gei2 wo3 yi2 fen4 ba5
+11961064	你在哪里等我。
+	ni3 zai4 na2 li3 deng2 wo3
+11961065	<H></H>哎，我们才刚干完活。
+	ai4 wo3 men5 cai2 gang1 gan1 wan2 huo2
+11961066	别自作聪明。
+	bie2 zi4 zuo4 cong1 ming2
+11961067	不<A>知</A>道他们公司在做什么的？你知道他们叫什么吗？
+	bu4 zhi1 dao4 ta1 men5 gong1 si1 zai4 zuo4 shen2 me5 de5 ni3 zhi1 dao4 ta1 men5 jiao4 shen2 me5 ma5
+11961068	到了，你到哪了？
+	dao4 le5 ni3 dao4 na3 le5
+11961069	房间很漂亮。
+	fang2 jian1 hen3 piao4 liang4
+11961070	<F></F>国际台的王璐回来了，my favorite DJ。
+	guo2 ji4 tai2 de5 wang2 lu4 hui2 lai2 le5 MY FAVORITE D J
+11961071	好的，我马上到。
+	hao3 de5 wo2 ma3 shang4 dao4
+11961072	<H></H>后来的这几次课<D></D>你怎么都不来了呀？
+	hou4 lai2 de5 zhe4 ji3 ci4 ke4 ni2 zen3 me5 dou1 bu4 lai2 le5 ya5
+11961073	姐，<F>我想</F>买一个mp三，你带我<F>去看</F>看行吗？
+	jie3 wo2 xiang2 mai3 yi2 ge4 M P san1 ni3 dai4 wo3 qv4 kan4 kan4 xing2 ma5
+11961074	就要发车了。
+	jiu4 yao4 fa1 che1 le5
+11961075	<H></H>离你近吧。
+	li2 ni3 jin4 ba5
+11961076	没找着你啊，我们在右边呢<F></F>。
+	mei2 zhao3 zhao2 ni3 a5 wo3 men5 zai4 you4 bian1 ne5
+11961077	那你现在放寒假了吧。
+	na4 ni3 xian4 zai4 fang4 han2 jia4 le5 ba5
+11961078	你打小灵通，多打几次。
+	ni2 da2 xiao3 ling2 tong1 duo1 da2 ji3 ci4
+11961079	你家住几层？
+	ni3 jia1 zhu4 ji3 ceng2
+11961080	你什么<A>时</A><A>候</A>回来呀？
+	ni3 shen2 me5 shi2 hou4 hui2 lai2 ya5
+11961081	你在家吗？一个人吗？
+	ni3 zai4 jia1 ma5 yi2 ge4 ren2 ma5
+11961082	票上写的是<F>六点</F>。
+	piao4 shang4 xie3 de5 shi4 liu4 dian3
+11961083	如果要全做完还得昨天那点。
+	ru2 guo3 yao4 qvan2 zuo4 wan2 hai2 dei3 zuo2 tian1 nei4 dian3
+11961084	是不是昨天下来时<D></D>总是看不见终点时就被吓的。
+	shi4 bu5 shi4 zuo2 tian1 xia4 lai2 shi2 zong3 shi4 kan4 bu2 jian4 zhong1 dian3 shi2 jiu4 bei4 xia4 de5
+11961085	他们留下来没有走，第二天才走的。
+	ta1 men2 liu2 xia4 lai2 mei2 you2 zou3 di4 er4 tian1 cai2 zou3 de5
+11961086	万圣节之夜，我会去找你的…呵呵……吓着你了吗？
+	wan4 sheng4 jie2 zhi1 ye4 wo3 hui4 qv4 zhao2 ni3 de5 he1 he1 xia4 zhe5 ni3 le5 ma5
+11961087	我掉线了。
+	wo3 diao4 xian4 le5
+11961088	我今天上午给你发短信了，但你没有回我。
+	wo3 jin1 tian1 shang4 wu3 gei2 ni3 fa1 duan3 xin4 le5 dan4 ni3 mei2 you3 hui2 wo3
+11961089	<H></H>我<F>们认为</F>这件事情不重要。
+	wo3 men2 ren4 wei2 zhei4 jian4 shi4 qing2 bu2 zhong4 yao4
+11961090	我特想和你一起过中秋！
+	wo3 te4 xiang3 he2 ni3 yi4 qi3 guo4 zhong1 qiu1
+11961091	我也是，反正都答出来了，不知对不对。
+	wo2 ye3 shi4 fan3 zheng4 dou1 da2 chu1 lai2 le5 bu4 zhi1 dui4 bu5 dui4
+11961092	我这堵住了！你到了先在附近逛逛吧。
+	wo3 zhe4 du3 zhu4 le5 ni3 dao4 le5 xian1 zai4 fu4 jin4 guang4 guang4 ba5
+11961093	<H></H>现在堵车，不知道几点能到，要是晚了就不过去了，有时请你帮忙关照一下，谢谢。
+	xian4 zai4 du3 che1 bu4 zhi1 dao4 ji2 dian3 neng2 dao4 yao4 shi4 wan3 le5 jiu4 bu2 guo4 qv4 le5 you3 shi2 qing2 ni3 bang1 mang2 guan1 zhao4 yi2 xia4 xie4 xie4
+11961094	<H></H>行，没问题，我什么时候都有时间。
+	xing2 mei2 wen4 ti2 wo3 shen2 me5 shi2 hou4 dou1 you3 shi2 jian1
+11961095	拥有你是我最大的骄傲。
+	yong1 you2 ni3 shi4 wo3 zui4 da4 de5 jiao1 ao4
+11961096	在上班吗，好久不联系了，也不理我，哼！
+	zai4 shang4 ban1 ma5 hao2 jiu3 bu4 lian2 xi4 le5 ye3 bu4 li2 wo3 heng4
+11961097	这是我的一点心意。
+	zhe4 shi4 wo3 de5 yi4 dian3 xin1 yi4
+11961098	<D></D>祝贺你！你终于成功了！
+	zhu4 he4 ni3 ni3 zhong1 yv2 cheng2 gong1 le5
+11961099	噢，那天任姐还说吃饭时一直没看见你呢。
+	ou4 nei4 tian1 ren4 jie3 hai2 shuo1 chi1 fan4 shi2 yi4 zhi2 mei2 kan4 jian4 ni3 ne5
+11961100	我回家再打电话给你。
+	wo3 hui2 jia1 zai4 da3 dian4 hua4 gei2 ni3
+11961101	爸爸，祝您父亲节快乐！
+	ba4 ba5 zhu4 nin2 fu4 qin1 jie2 kuai4 le4
+11961102	不好意思，下周三可以吗？最近太忙。
+	bu4 hao3 yi4 si1 xia4 zhou1 san1 ke2 yi3 ma5 zui4 jin4 tai4 mang2
+11961103	初次见面请多多关照。
+	chu1 ci4 jian4 mian4 qing3 duo1 duo1 guan1 zhao4
+11961104	<H></H>电话占线，感冒好了吗？这周爬山去啊，去吗？
+	dian4 hua4 zhan4 xian4 gan3 mao4 hao3 le5 ma5 zhei4 zhou1 pa2 shan1 qv4 a5 qv4 ma5
+11961105	干吗呢，什么时候来我家呀，都想你了。
+	gan4 ma2 ne5 shen2 me5 shi2 hou4 lai2 wo3 jia1 ya5 dou1 xiang2 ni3 le5
+11961106	哈哈，知道你得问，不是我，刘明问我，我不会就求救你了。
+	ha1 ha1 zhi1 dao4 ni2 dei3 wen4 bu2 shi4 wo3 liu2 ming2 wen4 wo3 wo3 bu2 hui4 jiu4 qiu2 jiu4 ni3 le5
+11961107	<H></H>好久不见，找一天聚聚吧。
+	hao2 jiu3 bu2 jian4 zhao3 yi4 tian1 jv4 jv4 ba5
+11961108	还没去拿，没时间。
+	hai2 mei2 qv4 na2 mei2 shi2 jian1
+11961109	今天没事去邮局把那个证给我邮过来，弄个挂号信就行。
+	jin1 tian1 mei2 shi4 qv4 you2 jv2 ba3 nei4 ge4 zheng4 gei2 wo3 you2 guo4 lai2 nong4 ge4 gua4 hao4 xin4 jiu4 xing2
+11961110	考糊了，为下次而准备吧。
+	kao3 hu2 le5 wei4 xia4 ci4 er2 zhun3 bei4 ba5
+11961111	马上就好。
+	ma3 shang4 jiu4 hao3
+11961112	<D></D>明天我们六点种就得去车站呢。
+	ming2 tian1 wo3 men5 liu4 dian3 zhong4 jiu4 dei3 qv4 che1 zhan4 ne5
+11961113	<H></H>那我们真是同命相怜呀<D></D>！我不也是在单位给别人卖命的吗？
+	na4 wo3 men5 zhen1 shi4 tong2 ming4 xiang4 lian2 ya5 wo3 bu4 ye3 shi4 zai4 dan1 wei4 gei3 bie2 ren2 mai4 ming4 de5 ma5
+11961114	<H></H>你的友谊是我的财富，我在用心积蓄。
+	ni3 de5 you3 yi2 shi4 wo3 de5 cai2 fu4 wo3 zai4 yong4 xin1 ji1 xv4
+11961115	<H></H>你快来参加。
+	ni3 kuai4 lai2 can1 jia1
+11961116	<H></H>你和我一起，没相爱的福气，总有相处的勇气。
+	ni3 he2 wo3 yi4 qi3 mei2 xiang1 ai4 de5 fu2 qi4 zong2 you3 xiang1 chu3 de2 yong3 qi4
+11961117	<F>你这个</F>周末有时间吗<G></G>？你陪我去看看手机行吗？
+	ni3 zhei4 ge5 zhou1 mo4 you3 shi2 jian1 ma5 ni3 pei2 wo3 qv4 kan4 kan4 shou3 ji1 xing2 ma5
+11961118	清明节我们去扫墓。
+	qing1 ming2 jie2 wo3 men5 qv4 sao3 mu4
+11961119	捎去我的心语，一天好心情！
+	shao1 qv4 wo3 de5 xin1 yv3 yi4 tian1 hao3 xin1 qing2
+11961120	是呀，有的是本科，有的是专科。
+	shi4 ya5 you3 de5 shi4 ben3 ke1 you3 de5 shi4 zhuan1 ke1
+11961121	太不公平了！我抗议！
+	tai4 bu4 gong1 ping2 le5 wo3 kang4 yi4
+11961122	我本来让你给我打题目，但后来我又不用了，也没及时告诉你，真不好意思，让你费心了<F></F>，明天上课吗？
+	wo2 ben3 lai2 rang4 ni3 gei2 wo2 da3 ti2 mu4 dan4 hou4 lai2 wo3 you4 bu2 yong4 le5 ye3 mei2 ji2 shi2 gao4 su4 ni3 zhen1 bu4 hao3 yi4 si5 rang4 ni3 fei4 xin1 le5 ming2 tian1 shang4 ke4 ma5
+11961123	我刚闲下来，最近还好吗？
+	wo3 gang1 xian2 xia4 lai2 zui4 jin4 hai2 hao3 ma5
+11961124	<H></H>我看了，节奏太慢了。
+	wo3 kan4 le5 jie2 zou4 tai4 man4 le5
+11961125	<H></H>我们做对外广播，所以北京听不到<D></D>，上网可以听，试试www dot cri dot cn，我们做的节目叫做《北京写真<D></D>》,每周二播出。
+	wo3 men5 zuo4 dui4 wai4 guang3 bo1 suo2 yi2 bei3 jing1 ting1 bu2 dao4 shang4 wang3 ke2 yi3 ting1 shi4 shi4 W W W DOT C R I DOT C N wo3 men2 zuo4 de5 jie2 mu4 jiao4 zuo4 bei3 jing1 xie3 zhen1 mei3 zhou1 er4 bo1 chu1
+11961126	<D></D>我现在就在你们家门口，你什么时候回来啊？
+	wo3 xian4 zai4 jiu4 zai4 ni3 men5 jia1 men2 kou3 ni3 shen2 me5 shi2 hou4 hui2 lai2 a5
+11961127	<H></H>我永远支持你。
+	wo3 yong2 yvan3 zhi1 chi2 ni3
+11961128	我住在靠近车站的饭店。
+	wo3 zhu4 zai4 kao4 jin4 che1 zhan4 de5 fan4 dian4
+11961129	想要我的原谅，你得先向我认错，知道吗？
+	xiang3 yao4 wo3 de5 yvan2 liang4 ni2 dei3 xian1 xiang4 wo3 ren4 cuo4 zhi1 dao4 ma5
+11961130	<H></H>要记得吃早饭哦。不然<H></H>对身体不好的。
+	yao4 ji4 de2 chi1 zao3 fan4 o5 bu4 ran2 dui4 shen1 ti3 bu4 hao3 de5
+11961131	有时间我肯定过来看你，找你逛街。
+	you3 shi2 jian1 wo2 ken3 ding4 guo4 lai2 kan4 ni3 zhao2 ni3 guang4 jie1
+11961132	<H></H>早点休息吧，明天还要工作呢。
+	zao2 dian3 xiu1 xi5 ba5 ming2 tian1 hai2 yao4 gong1 zuo4 ne5
+11961133	<H></H>真的我错了，我还有机会改吗？
+	zhen1 de5 wo3 cuo4 le5 wo3 hai2 you3 ji1 hui4 gai3 ma5
+11961134	走的时候收拾好房间。
+	zou3 de5 shi2 hou4 shou1 shi2 hao3 fang2 jian1
+11961135	今天很冷，注意身体！
+	jin1 tian1 hen2 leng3 zhu4 yi4 shen1 ti3
+11961136	一天一片。
+	yi1 tian1 yi2 pian4
+11961137	宝贝儿，我会永远支持你！我会做你最忠实的支持者！
+	bao3 beir4 wo3 hui4 yong2 yvan3 zhi1 chi2 ni3 wo3 hui4 zuo4 ni3 zui4 zhong1 shi2 de5 zhi1 chi2 zhe3
+11961138	<H></H>不是，我的手机带彩色灯。
+	bu2 shi4 wo3 de2 shou3 ji1 dai4 cai3 se4 deng1
+11961139	打扫卫生别蛮干，适当休息最划算。
+	da2 sao3 wei4 sheng1 bie2 man2 gan4 shi4 dang1 xiu1 xi1 zui4 hua2 suan4
+11961140	对不起，再等一会儿。
+	dui4 bu5 qi3 zai4 deng3 yi1 huir3
+11961141	<D></D>刚忙完可怜吧？新年快乐！下周见！
+	gang1 mang2 wan2 ke3 lian2 ba5 xin1 nian2 kuai4 le4 xia4 zhou1 jian4
+11961142	<H></H>好，知道了，下午见。
+	hao3 zhi1 dao4 le5 xia4 wu3 jian4
+11961143	呵呵！
+	he1 he1
+11961144	回来搞几个报告，还没下地。
+	hui2 lai2 gao2 ji3 ge4 bao4 gao4 hai2 mei2 xia4 di4
+11961145	今天下午到的。
+	jin1 tian1 xia4 wu3 dao4 de5
+11961146	快到春节了，你们那怎么还不放假呢？
+	kuai4 dao4 chun1 jie2 le5 ni3 men5 na4 zen3 me5 hai2 bu2 fang4 jia4 ne5
+11961147	没时间了快点。
+	mei2 shi2 jian1 le5 kuai4 dian3
+11961148	那个证今天下午到。
+	na4 ge4 zheng4 jin1 tian1 xia4 wu3 dao4
+11961149	能帮我订张火车票吗？
+	neng2 bang1 wo3 ding4 zhang1 huo3 che1 piao4 ma5
+11961150	<D></D>你过来看吧，就在我家里呢。
+	ni3 guo4 lai2 kan4 ba5 jiu4 zai4 wo3 jia1 li3 ne5

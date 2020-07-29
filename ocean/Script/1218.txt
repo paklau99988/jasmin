@@ -1,0 +1,240 @@
+12181001	<H></H>上月就买了五百多。
+	shang4 yue4 jiu4 mai3 le5 wu2 bai3 duo1
+12181002	<D></D>不是我这个人负心薄幸。
+	bu2 shi4 wo3 zhei4 ge5 ren2 fu4 xin1 bo2 xing4
+12181003	<H></H>不是要你脑袋的时候才算把你逼到份上了呢。
+	bu2 shi4 yao4 ni2 nao3 dai4 de5 shi2 hou4 cai2 suan4 ba2 ni3 bi1 dao4 fen4 shang4 le5 ne5
+12181004	<H></H>世界上没有比你更傻的人了。
+	shi4 jie4 shang4 mei2 you2 bi2 ni3 geng4 sha3 de5 ren2 le5
+12181005	<H></H>也别一个人老闷在家里。
+	ye3 bie2 yi2 ge4 ren2 lao3 men1 zai4 jia1 li3
+12181006	<F>也认同她的说法</F>。
+	ye3 ren4 tong2 ta1 de5 shuo1 fa3
+12181007	<H></H>人的一生并不在于做出多大贡献。
+	ren2 de5 yi4 sheng1 bing4 bu2 zai4 yu2 zuo4 chu1 duo1 da4 gong4 xian4
+12181008	<H></H>今天叫你们来就是分配一个任务。
+	jin1 tian1 jiao4 ni3 men5 lai2 jiu4 shi4 fen1 pei4 yi2 ge4 ren4 wu4
+12181009	<H></H>他俩知道我的这个号码。
+	ta1 lia3 zhi1 dao4 wo3 de5 zhe4 ge5 hao4 ma3
+12181010	<D></D>他大概也觉察出我是在蒙他。
+	ta1 da4 gai4 ye3 jue2 cha2 chu1 wo3 shi4 zai4 meng1 ta1
+12181011	他正躺在树底下歇凉呢。
+	ta1 zheng4 tang3 zai4 shu4 di3 xia4 xie1 liang2 ne5
+12181012	他的商务生涯十分成功。
+	ta1 de5 shang1 wu4 sheng1 ya2 shi2 fen1 cheng2 gong1
+12181013	他的手机不是太好用了。
+	ta1 de5 shou3 ji1 bu2 shi4 tai4 hao3 yong4 le5
+12181014	<H></H>以前的报纸贴在布告栏上。
+	yi3 qian2 de5 bao4 zhi3 tie1 zai4 bu4 gao4 lan2 shang4
+12181015	<H></H>以后你们一定要尝尝呀。
+	yi3 hou4 ni3 men5 yi2 ding4 yao4 chang2 chang2 ya5
+12181016	<D></D>你他妈懂不懂球。
+	ni3 ta1 ma1 dong3 bu5 dong3 qiu2
+12181017	<D></D>你怎么也没给我打声招呼。
+	ni2 zen3 me5 ye3 mei2 gei2 wo3 da3 sheng1 zhao1 hu5
+12181018	<D></D>你晚上睡觉必须锁门。
+	ni2 wan3 shang4 shui4 jiao4 bi4 xu1 suo3 men2
+12181019	你最好换一辆车。
+	ni3 zui4 hao3 huan4 yi2 liang4 che1
+12181020	<H></H>你爱的是对方未来可能的样子。
+	ni3 ai4 de5 shi4 dui4 fang1 wei4 lai2 ke3 neng2 de5 yang4 zi5
+12181021	<H></H>假期的培训要看学校教学服务中心主页的通知。
+	jia4 qi1 de5 pei2 xun4 yao4 kan4 xue2 xiao4 jiao4 xue2 fu2 wu4 zhong1 xin1 zhu3 ye4 de5 tong1 zhi1
+12181022	到那个学校都是报这样的。
+	dao4 na4 ge4 xue2 xiao4 dou1 shi4 bao4 zhei4 yang4 de5
+12181023	<H></H>厂子是租用当地的工业村。
+	chang3 zi5 shi4 zu1 yong4 dang1 di4 de5 gong1 ye4 cun1
+12181024	<H></H><F></F>去年验完本后就没摸过车。
+	qu4 nian2 yan4 wan2 ben3 hou4 jiu4 mei2 mo1 guo4 che1
+12181025	<H></H>反正你来就是闲着没事儿打发时间的。
+	fan3 zheng4 ni3 lai2 jiu4 shi4 xian2 zhe5 mei2 shir4 da3 fa1 shi2 jian1 de5
+12181026	<H></H>只是年少轻狂的气焰。
+	zhi3 shi4 nian2 shao4 qing1 kuang2 de5 qi4 yan4
+12181027	<H></H>可总得有个理由呀。
+	ke3 zong2 dei2 you3 ge4 li3 you2 ya5
+12181028	<D></D>后来发展到天天晚上去网吧。
+	hou4 lai2 fa1 zhan3 dao4 tian1 tian1 wan3 shang4 qu4 wang3 ba1
+12181029	听起来有点怕怕的。
+	ting1 qi3 lai2 you2 dian3 pa4 pa4 de5
+12181030	<H></H>因非典病毒由嗓子进入。
+	yin1 fei1 dian3 bing4 du2 you2 sang3 zi5 jin4 ru4
+12181031	<H></H>在你这个高手面前我是班门弄斧了。
+	zai4 ni3 zhe4 ge5 gao1 shou3 mian4 qian2 wo3 shi4 ban1 men2 nong4 fu3 le5
+12181032	<H></H>大约过两个红绿灯右转就到了。
+	da4 yue1 guo4 liang3 ge4 hong2 lv4 deng1 you4 zhuan3 jiu4 dao4 le5
+12181033	大芯板上直接刷漆肯定不好。
+	da4 xin1 ban3 shang4 zhi2 jie1 shua1 qi1 ken3 ding4 bu4 hao3
+12181034	姑娘也可以先跟他说话呀。
+	gu1 niang2 ye2 ke2 yi3 xian1 gen1 ta1 shuo1 hua4 ya5
+12181035	<H></H>就地如重游，月圆更寂寞。
+	jiu4 di4 ru2 chong2 you2 yue4 yuan2 geng4 ji4 mo4
+12181036	就想让那管子消失。
+	jiu4 xiang3 rang4 na4 guan3 zi5 xiao1 shi1
+12181037	就是白馒头白面条。
+	jiu4 shi4 bai2 man2 tou2 bai2 mian4 tiao5
+12181038	就是给一个中专学校编一个数学练习册。
+	jiu4 shi4 gei3 yi2 ge4 zhong1 zhuan1 xue2 xiao4 bian1 yi2 ge4 shu4 xue2 lian4 xi2 ce4
+12181039	<H></H>就这样我糊里糊涂的去了公司。
+	jiu4 zhe4 yang4 wo3 hu2 li3 hu2 tu2 de5 qu4 le5 gong1 si1
+12181040	<D></D>带走以后再棋来搁家。
+	dai4 zou2 yi3 hou4 zai4 qi2 lai2 ge1 jia1
+12181041	当时也想配有牌子的呢。
+	dang1 shi2 ye2 xiang3 pei4 you3 pai2 zi5 de5 ne5
+12181042	当是咱俩给他压岁钱。
+	dang1 shi4 zan2 lia2 gei3 ta1 ya1 sui4 qian2
+12181043	<H></H>很多东西在护肤方面也都挺好。
+	hen3 duo1 dong1 xi5 zai4 hu4 fu1 fang1 mian4 ye3 dou1 ting2 hao3
+12181044	<H></H>很多都出去租房子。
+	hen3 duo1 dou1 chu1 qu4 zu1 fang2 zi5
+12181045	<D></D>怎么还落得象是你求我似的。
+	zen3 me5 hai2 luo4 de5 xiang4 shi4 ni3 qiu2 wo3 si4 de5
+12181046	<D></D>感觉单身在外挺能锻炼人的。
+	gan3 jue2 dan1 shen1 zai4 wai4 ting3 neng2 duan4 lian4 ren2 de5
+12181047	<H></H>成才岂止高考路。
+	cheng2 cai2 qi2 zhi3 gao1 kao3 lu4
+12181048	我一会儿出去买票呢。
+	wo3 yi4 huir3 chu1 qu4 mai3 piao4 ne5
+12181049	<D></D>我一直都渴望有一个家。
+	wo3 yi4 zhi2 dou1 ke3 wang4 you3 yi2 ge4 jia1
+12181050	<D></D>我不希望你会那样。
+	wo3 bu4 xi1 wang4 ni3 hui4 na4 yang4
+12181051	<H></H>我不是对女人有研究，只是认识的人多了。
+	wo3 bu2 shi4 dui4 nv3 ren2 you3 yan2 jiu1 zhi3 shi4 ren4 shi5 de5 ren2 duo1 le5
+12181052	<H></H>我不能拿自己的后半生开玩笑呀。
+	wo3 bu4 neng2 na2 zi4 ji3 de5 hou4 ban4 sheng1 kai1 wan2 xiao4 ya5
+12181053	<H></H>我以前给国内的朋友买过。
+	wo2 yi3 qian2 gei3 guo2 nei4 de5 peng2 you2 mai3 guo4
+12181054	<H></H>我们也不忍心再让你为难。
+	wo3 men5 ye3 bu4 ren3 xin1 zai4 rang4 ni3 wei2 nan2
+12181055	我们在那儿转了半天之后就开始在草地上休息了。
+	wo3 men5 zai4 nar4 zhuan4 le5 ban4 tian1 zhi1 hou4 jiu4 kai1 shi3 zai4 cao3 di4 shang4 xiu1 xi5 le5
+12181056	<D></D>我休完产假就失业了。
+	wo3 xiu1 wan2 chan3 jia4 jiu4 shi1 ye4 le5
+12181057	我厌倦被忽视的感觉。
+	wo3 yan4 juan4 bei4 hu1 shi4 de5 gan3 jue2
+12181058	<H></H>我可有失眠的毛病。
+	wo2 ke2 you3 shi1 mian2 de5 mao2 bing4
+12181059	我对他的电影就两部印象非常的深刻。
+	wo3 dui4 ta1 de5 dian4 ying3 jiu4 liang3 bu4 yin4 xiang4 fei1 chang2 de5 shen1 ke4
+12181060	我对汽车了解不多。
+	wo3 dui4 qi4 che1 liao2 jie3 bu4 duo1
+12181061	我就是北京最高水平的了<D></D>。
+	wo3 jiu4 shi4 bei3 jing1 zui4 gao1 shui3 ping2 de5 le5
+12181062	<H></H>我常用的邮箱是新浪的。
+	wo3 chang2 yong4 de5 you2 xiang1 shi4 xin1 lang4 de5
+12181063	<D></D>我想打个长途电话。
+	wo2 xiang2 da3 ge4 chang2 tu2 dian4 hua4
+12181064	我打算<K></K>等一下带他去看医生。
+	wo2 da3 suan4 deng3 yi2 xia4 dai4 ta1 qu4 kan4 yi1 sheng1
+12181065	<H></H>我接着向我的房间走去。
+	wo3 jie1 zhe5 xiang4 wo3 de5 fang2 jian1 zou3 qu4
+12181066	<D></D>我是第一次用你们东西。
+	wo3 shi4 di4 yi1 ci4 yong4 ni3 men5 dong1 xi5
+12181067	我有时也联系兽医。
+	wo2 you3 shi2 ye3 lian2 xi4 shou4 yi1
+12181068	我没把握是往哪儿边走。
+	wo3 mei2 ba3 wo4 shi4 wang2 nar3 bian1 zou3
+12181069	我现在也就还有半个学期和我亲爱的同学相处了。
+	wo3 xian4 zai4 ye3 jiu4 hai2 you3 ban4 ge4 xue2 qi1 he2 wo3 qin1 ai4 de5 tong2 xue2 xiang1 chu3 le5
+12181070	我的疑惑守候在你眼底。
+	wo3 de5 yi2 huo4 shou3 hou4 zai4 ni3 yan2 di3
+12181071	<H></H>我看你是烧糊涂了。
+	wo3 kan4 ni3 shi4 shao1 hu2 tu5 le5
+12181072	我知道他们已经结婚了。
+	wo3 zhi1 dao4 ta1 men5 yi3 jing1 jie1 hun1 le5
+12181073	<H></H>我知道他跟你是一溜的。
+	wo3 zhi1 dao4 ta1 gen1 ni3 shi4 yi1 liu4 de5
+12181074	<H></H>我第一反映是掉头就走。
+	wo3 di4 yi1 fan3 ying4 shi4 diao4 tou2 jiu4 zou3
+12181075	我给他施加压力。
+	wo2 gei3 ta1 shi1 jia1 ya1 li4
+12181076	<H></H>我给说一脑筋急转弯儿。
+	wo2 gei3 shuo1 yi4 nao3 jin1 ji2 zhuan3 wanr1
+12181077	<D></D>我记得他可能喜欢吃鱼香肉丝儿。
+	wo3 ji4 de5 ta1 ke3 neng2 xi3 huan1 chi1 yu2 xiang1 rou4 sir1
+12181078	<D></D>我说太爱自己作主。
+	wo3 shuo1 tai4 ai4 zi4 ji3 zuo4 zhu3
+12181079	<D></D>所以更应该加油啊。
+	suo2 yi3 geng4 ying1 gai1 jia1 you2 a5
+12181080	<D></D>托清风捎去衷心的祝福。
+	tuo1 qing1 feng1 shao1 qu4 zhong1 xin1 de5 zhu4 fu2
+12181081	<H></H>把那哥哥说的很是受憋。
+	ba3 na4 ge1 ge5 shuo1 de5 hen3 shi4 shou4 bie1
+12181082	抬杠也是在锻炼自己呀。
+	tai2 gang4 ye3 shi4 zai4 duan4 lian4 zi4 ji3 ya5
+12181083	按在我车上的效果。
+	an4 zai4 wo3 che1 shang4 de5 xiao4 guo3
+12181084	<D></D>每一根羽毛成长都凝结着您的深情抚爱和谆谆教导。
+	mei3 yi4 gen1 yu3 mao2 cheng2 zhang3 dou1 ning2 jie2 zhe5 nin2 de5 shen1 qing2 fu3 ai4 he2 zhun1 zhun1 jiao4 dao3
+12181085	<H></H>没想到你不用看书也能考过。
+	mei2 xiang3 dao4 ni3 bu2 yong4 kan4 shu1 ye3 neng2 kao3 guo4
+12181086	<D></D>没有<D></D>。当时那位大姐不让我跟她聊。
+	mei2 you3 dang1 shi2 na4 wei4 da4 jie3 bu2 rang4 wo3 gen1 ta1 liao2
+12181087	活得那么没尊严。
+	huo2 de5 na4 me5 mei2 zun1 yan2
+12181088	<D></D>海里还有谁比咱们漂亮。
+	hai2 li3 hai2 you3 shei2 bi3 zan2 men5 piao4 liang5
+12181089	<H></H>然后把短信考到可移动硬盘里就行了。
+	ran2 hou4 ba2 duan3 xin4 kao3 dao4 ke3 yi2 dong4 ying4 pan2 li3 jiu4 xing2 le5
+12181090	<D></D>琢磨着怎么离开。
+	zuo2 mo5 zhe5 zen3 me5 li2 kai1
+12181091	<H></H>看来他对我这个黄漂漂的女孩子不感兴趣。
+	kan4 lai2 ta1 dui4 wo3 zhei4 ge5 huang2 piao1 piao1 de5 nv3 hai2 zi5 bu4 gan3 xing4 qu4
+12181092	<H></H>看配音体会不到那种感受。
+	kan4 pei4 yin1 ti3 hui4 bu2 dao4 nei4 zhong2 gan3 shou4
+12181093	<D></D>眼睛里流露出的目光是那么的慈祥。
+	yan3 jing1 li3 liu2 lu4 chu1 de5 mu4 guang1 shi4 na4 me5 de5 ci2 xiang2
+12181094	<D></D>经理在会议上讨论了一下关于我的工作和背景。
+	jing1 li3 zai4 hui4 yi4 shang4 tao3 lun4 le5 yi2 xia4 guan1 yu2 wo3 de5 gong1 zuo4 he2 bei4 jing3
+12181095	<D></D>老公不在乎结果的。
+	lao3 gong1 bu2 zai4 hu1 jie2 guo3 de5
+12181096	<D></D>虽然那里很繁荣。
+	sui1 ran2 na4 li2 hen3 fan2 rong2
+12181097	<D></D>让不开心的事都随今晚的细雨消失在明天的阳光中吧。
+	rang4 bu4 kai1 xin1 de5 shi4 dou1 sui2 jin1 wan3 de5 xi4 yu3 xiao1 shi1 zai4 ming2 tian1 de5 yang2 guang1 zhong1 ba5
+12181098	<D></D>让他拉他还真敢拉。
+	rang4 ta1 la1 ta1 hai2 zhen1 gan3 la1
+12181099	<H></H>让我们拭目以待吧。
+	rang4 wo3 men5 shi4 mu4 yi3 dai4 ba5
+12181100	<D></D>走了一天好多啦。
+	zou3 le5 yi4 tian1 hao3 duo1 la5
+12181101	<D></D>身上剩多少钱都给他寄回去的。
+	shen1 shang4 sheng4 duo1 shao3 qian2 dou1 gei3 ta1 ji4 hui2 qu4 de5
+12181102	<H></H>这个女的够爽快的了。
+	zhe4 ge5 nv3 de5 gou4 shuang3 kuai4 de5 le5
+12181103	<H></H>这个小孩很讨人喜欢。
+	zhe4 ge5 xiao3 hai2 hen2 tao3 ren2 xi3 huan1
+12181104	<D></D>这他<K></K>根本没放在眼里呀。
+	zhe4 ta1 gen1 ben3 mei2 fang4 zai4 yan2 li3 ya5
+12181105	<D></D>这样象对着空气聊。
+	zhei4 yang4 xiang4 dui4 zhe5 kong1 qi4 liao2
+12181106	这次旅程没有去江西那么远的距离。
+	zhe4 ci4 lv3 cheng2 mei2 you3 qu4 jiang1 xi1 na4 me5 yuan3 de5 ju4 li2
+12181107	<D></D>那天记者把她触怒了。
+	na4 tian1 ji4 zhe2 ba3 ta1 chu4 nu4 le5
+12181108	<D></D>那自在情理之中。
+	na4 zi4 zai4 qing2 li3 zhi1 zhong1
+12181109	<D></D>银库里的大银元宝有九百多万个。
+	yin2 ku4 li3 de5 da4 yin2 yuan2 bao3 you3 jiu2 bai3 duo1 wan4 ge4
+12181110	<D></D>预定在学校旁边的超市发买。
+	yu4 ding4 zai4 xue2 xiao4 pang2 bian1 de5 chao1 shi4 fa1 mai3
+12181111	<H></H>不多说了<D></D>，祝你明天面试成功。
+	bu4 duo1 shuo1 le5 zhu4 ni3 ming2 tian1 mian4 shi4 cheng2 gong1
+12181112	<D></D>你真是第一个，可惜我没有什么好玩的短信给你了，就祝你端午快乐吧！
+	ni3 zhen1 shi4 di4 yi1 ge4 ke3 xi1 wo3 mei2 you3 shen2 me5 hao3 wan2 de5 duan3 xin4 gei2 ni3 le5 jiu4 zhu4 ni3 duan1 wu3 kuai4 le4 ba5
+12181113	够酸的，好了，愿你今晚好梦依偎。
+	gou4 suan1 de5 hao3 le5 yuan4 ni3 jin1 wan3 hao3 meng4 yi1 wei1
+12181114	<D></D>女儿不在的时候，希望你们多多保重。
+	nv3 er2 bu2 zai4 de5 shi2 hou4 xi1 wang4 ni3 men5 duo1 duo1 bao3 zhong4
+12181115	<D></D>我不在的日子大家不要吵。要和睦相处。祝你们快乐。
+	wo3 bu2 zai4 de5 ri4 zi5 da4 jia1 bu2 yao4 chao3 yao4 he2 mu4 xiang1 chu3 zhu4 ni3 men5 kuai4 le4
+12181116	<D></D>我还以为你睡了呢，只是想祝福你一下。
+	wo3 hai2 yi3 wei2 ni3 shui4 le5 ne5 zhi3 shi4 xiang3 zhu4 fu2 ni3 yi2 xia4
+12181117	现在只能，提前祝你双节愉快，吃啥啥香，身体倍儿棒！
+	xian4 zai4 zhi3 neng2 ti2 qian2 zhu4 ni3 shuang1 jie2 yu2 kuai4 chi1 sha2 sha2 xiang1 shen1 ti3 beir4 bang4
+12181118	真不知道该怎么给你说<D></D>，只能祝福你找到真爱。
+	zhen1 bu4 zhi1 dao4 gai1 zen3 me5 gei2 ni3 shuo1 zhi3 neng2 zhu4 fu2 ni3 zhao3 dao4 zhen1 ai4
+12181119	<D></D>祝福你的男友，放心啦。
+	zhu4 fu2 ni3 de5 nan2 you3 fang4 xin1 la5
+12181120	<D></D>那祝你好运，全部通过！
+	na4 zhu4 ni2 hao3 yun4 quan2 bu4 tong1 guo4

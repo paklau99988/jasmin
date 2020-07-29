@@ -1,0 +1,240 @@
+12171001	<D></D>一个奋战于灯下的女孩。
+	yi2 ge4 fen4 zhan4 yu2 deng1 xia4 de5 nv3 hai2
+12171002	不用准备横幅了。
+	bu2 yong4 zhun3 bei4 heng2 fu2 le5
+12171003	<H></H>主要还是想还你一个清白。
+	zhu3 yao4 hai2 shi4 xiang3 huan2 ni3 yi2 ge4 qing1 bai2
+12171004	也只是一个猜测。
+	ye2 zhi3 shi4 yi2 ge4 cai1 ce4
+12171005	也许这只是我个人的感觉吧。
+	ye2 xu3 zhe4 zhi3 shi4 wo3 ge4 ren2 de5 gan3 jue2 ba5
+12171006	今周六不用上班。
+	jin1 zhou1 liu4 bu2 yong4 shang4 ban1
+12171007	他们爱凑一起我也不想什么。
+	ta1 men5 ai4 cou4 yi4 qi3 wo2 ye3 bu4 xiang3 shen2 me5
+12171008	他们跟我干了半天不能让他们跟着我受损失。
+	ta1 men5 gen1 wo3 gan4 le5 ban4 tian1 bu4 neng2 rang4 ta1 men5 gen1 zhe5 wo3 shou4 sun3 shi1
+12171009	<D></D>他在这里和曹爽幽会。
+	ta1 zai4 zhe4 li3 he2 cao2 shuang3 you1 hui4
+12171010	<D></D>代表我给他们道个歉吧。
+	dai4 biao3 wo2 gei3 ta1 men5 dao4 ge4 qian4 ba5
+12171011	但他并不太懂会计。
+	dan4 ta1 bing4 bu2 tai4 dong3 kuai4 ji4
+12171012	<H></H>但是很多人好像不<K></K>太认那个<P>牌</P>子。
+	dan4 shi4 hen3 duo1 ren2 hao3 xiang4 bu2 tai4 ren4 nei4 ge4 pai2 zi3
+12171013	<H></H>但没怎么来过这边。
+	dan4 mei2 zen3 me5 lai2 guo4 zhe4 bian1
+12171014	你到现在也不给我<P>配</P>你们家钥匙。
+	ni3 dao4 xian4 zai4 ye3 bu4 gei2 wo3 pei4 ni3 men5 jia1 yao4 shi5
+12171015	你应该继续念书。
+	ni3 ying1 gai1 ji4 xu4 nian4 shu1
+12171016	你恐怕是个“救难狂”。
+	ni2 kong3 pa4 shi4 ge4 jiu4 nan4 kuang2
+12171017	<G>你把你的户口本和你弟弟的照片拿上</G>。
+	ni2 ba2 ni3 de5 hu4 kou2 ben3 he2 ni3 di4 di5 de5 zhao4 pian1 na2 shang4
+12171018	你是皇帝不急太监急。
+	ni3 shi4 huang2 di4 bu4 ji2 tai4 jian1 ji2
+12171019	<D></D>你的头撞到了<P>排</P>水槽上。
+	ni3 de5 tou2 zhuang4 dao4 le5 pai2 shui3 cao2 shang4
+12171020	<D></D>你看是否可以按照我给你说的这个理由。
+	ni3 kan4 shi4 fou3 ke2 yi3 an4 zhao4 wo3 gei2 ni3 shuo1 de5 zhe4 ge5 li3 you2
+12171021	<D></D>你要是把我忘了那我就放心了。
+	ni3 yao4 shi4 ba2 wo3 wang4 le5 na4 wo3 jiu4 fang4 xin1 le5
+12171022	<D></D>你让她给我们搞一份他的行贿明细。
+	ni3 rang4 ta1 gei2 wo3 men5 gao3 yi2 fen4 ta1 de5 xing2 hui4 ming2 xi4
+12171023	你让着我<D></D>。那你干脆再让我一次。
+	ni3 rang4 zhe5 wo3 na4 ni3 gan1 cui4 zai4 rang4 wo3 yi2 ci4
+12171024	你都不给我好号。
+	ni3 dou1 bu4 gei3 wo2 hao3 hao4
+12171025	假病人住院的<K></K>全部花费都变成医院的盈利。
+	jia3 bing4 ren2 zhu4 yuan4 de5 quan2 bu4 hua1 fei4 dou1 bian4 cheng2 yi1 yuan4 de5 ying2 li4
+12171026	<D></D>关键是这不是我一个人说了算的事。
+	guan1 jian4 shi4 zhe4 bu2 shi4 wo3 yi2 ge4 ren2 shuo1 le5 suan4 de5 shi4
+12171027	<D></D>其实我不知道为何流浪。
+	qi2 shi2 wo3 bu4 zhi1 dao4 wei4 he2 liu2 lang4
+12171028	其实我们的感情在去年就发生了危机。
+	qi2 shi2 wo3 men5 de5 gan3 qing2 zai4 qu4 nian2 jiu4 fa1 sheng1 le5 wei1 ji1
+12171029	<D></D>出去走走也不错的<G></G>。
+	chu1 qu4 zou2 zou2 ye3 bu2 cuo4 de5
+12171030	<G>别把自己哥们打伤了呀</G>。
+	bie2 ba3 zi4 ji3 ge1 men5 da3 shang1 le5 ya5
+12171031	去了跟他的东西对比一下。
+	qu4 le5 gen1 ta1 de5 dong1 xi1 dui4 bi3 yi2 xia4
+12171032	<D></D>反正特别严肃的一个人。
+	fan3 zheng4 te4 bie2 yan2 su4 de5 yi2 ge4 ren2
+12171033	<D></D>只是我们这希望好像更容易落空。
+	zhi3 shi4 wo3 men5 zhe4 xi1 wang4 hao3 xiang4 geng4 rong2 yi4 luo4 kong1
+12171034	<G>只是用来证明你多酷</G>。
+	zhi3 shi4 yong4 lai2 zheng4 ming2 ni3 duo1 ku4
+12171035	<G>可周三又要开始</G>。
+	ke3 zhou1 san1 you4 yao4 kai1 shi3
+12171036	听着那边的他模模糊糊的回答。
+	ting1 zhe5 na4 bian1 de5 ta1 mo2 mo2 hu1 hu1 de5 hui2 da2
+12171037	<D></D>听这话像是没买到。
+	ting1 zhe4 hua4 xiang4 shi4 mei2 mai3 dao4
+12171038	团市委<P>推</P>荐学习标兵。
+	tuan2 shi4 wei3 tui1 jian4 xue2 xi2 biao1 bing1
+12171039	<D></D>在上个星期我参加了红红的婚礼。
+	zai4 shang4 ge4 xing1 qi1 wo3 can1 jia1 le5 hong2 hong2 de5 hun1 li3
+12171040	天下是有些<A>傻</A>瓜钱多得没处花了。
+	tian1 xia4 shi4 you3 xie1 sha3 gua1 qian2 duo1 de5 mei2 chu4 hua1 le5
+12171041	她也不知道自己是否应该去问。
+	ta1 ye3 bu4 zhi1 dao4 zi4 ji3 shi4 fou3 ying1 gai1 qu4 wen4
+12171042	<D></D>她也是心里有话不敢往上写。
+	ta1 ye3 shi4 xin1 li2 you3 hua4 bu4 gan2 wang3 shang4 xie3
+12171043	<D></D>她在这次意外中受到重伤。
+	ta1 zai4 zhe4 ci4 yi4 wai4 zhong1 shou4 dao4 zhong4 shang1
+12171044	她当年也是有名的江南才女呀。
+	ta1 dang1 nian2 ye3 shi4 you3 ming2 de5 jiang1 nan2 cai2 nv3 ya5
+12171045	好像是局里要成立什么开发总公司。
+	hao3 xiang4 shi4 ju2 li3 yao4 cheng2 li4 shen2 me5 kai1 fa1 zong3 gong1 si1
+12171046	<D></D>如果到的早的话可以吃一顿饭。
+	ru2 guo3 dao4 de5 zao3 de5 hua4 ke2 yi3 chi1 yi2 dun4 fan4
+12171047	<G>学校那边也要开学了</G>。
+	xue2 xiao4 na4 bian1 ye3 yao4 kai1 xue2 le5
+12171048	完全是她自己努力搞起来的。
+	wan2 quan2 shi4 ta1 zi4 ji2 nu3 li4 gao2 qi3 lai2 de5
+12171049	家里好像又买了一台新冰箱是吧。
+	jia1 li2 hao3 xiang4 you4 mai3 le5 yi4 tai2 xin1 bing1 xiang1 shi4 ba5
+12171050	<P>差</P>不多是它的多少百分比。
+	cha4 bu4 duo1 shi4 ta1 de5 duo1 shao2 bai3 fen1 bi3
+12171051	干妈是个极重事业的人。
+	gan1 ma1 shi4 ge4 ji2 zhong4 shi4 ye4 de5 ren2
+12171052	<D></D><P>怕</P>到时候一旦事情控制不了了。
+	pa4 dao4 shi2 hou4 yi2 dan4 shi4 qing2 kong4 zhi4 bu4 liao3 le5
+12171053	想到我忽然想起了杨春生曾经跟我说过。
+	xiang3 dao4 wo3 hu1 ran2 xiang2 qi3 le5 yang2 chun1 sheng1 ceng2 jing1 gen1 wo3 shuo1 guo4
+12171054	成功等于每天进步一点点。
+	cheng2 gong1 deng3 yu2 mei3 tian1 jin4 bu4 yi4 dian2 dian3
+12171055	我也想所以赶快先努力赚钱。
+	wo3 ye2 xiang3 suo2 yi2 gan3 kuai4 xian1 nu3 li4 zhuan4 qian2
+12171056	我从来不想知道对方的年龄。
+	wo3 cong2 lai2 bu4 xiang3 zhi1 dao4 dui4 fang1 de5 nian2 ling2
+12171057	我们一周上班六天。
+	wo3 men5 yi4 zhou1 shang4 ban1 liu4 tian1
+12171058	我们公司没有加班这个概念。
+	wo3 men5 gong1 si1 mei2 you3 jia1 ban1 zhe4 ge5 gai4 nian4
+12171059	我们家挺放心的。
+	wo3 men5 jia1 ting3 fang4 xin1 de5
+12171060	我们老师压了几道题。
+	wo3 men5 lao3 shi1 ya1 le5 ji3 dao4 ti2
+12171061	<D></D>我们这里上<P>牌</P>的地方特远。
+	wo3 men5 zhe4 li3 shang4 pai2 de5 di4 fang1 te4 yuan3
+12171062	我们这里是三学期两本书。
+	wo3 men5 zhe4 li3 shi4 san1 xue2 qi1 liang2 ben3 shu1
+12171063	我估计都掺了东西。
+	wo3 gu1 ji4 dou1 chan1 le5 dong1 xi5
+12171064	<D></D>我准备做一辈子光棍。
+	wo2 zhun3 bei4 zuo4 yi2 bei4 zi5 guang1 gun4
+12171065	<D></D>我只是想起你微笑的眼神。
+	wo2 zhi3 shi4 xiang2 qi2 ni3 wei1 xiao4 de5 yan3 shen2
+12171066	<D></D>我只是把他当作一个项目来完成的。
+	wo2 zhi3 shi4 ba3 ta1 dang1 zuo4 yi2 ge4 xiang4 mu4 lai2 wan2 cheng2 de5
+12171067	我可没赚他一分钱。
+	wo2 ke3 mei2 zhuan4 ta1 yi4 fen1 qian2
+12171068	我天天读英语词典。
+	wo3 tian1 tian1 du2 ying1 yu3 ci2 dian3
+12171069	<D></D>我就在大小梅沙附近。
+	wo3 jiu4 zai4 da4 xiao3 mei2 sha1 fu4 jin4
+12171070	我才刚把导师定下来。
+	wo3 cai2 gang1 ba2 dao3 shi1 ding4 xia4 lai2
+12171071	我打算到小唐山绿色基地去游玩。
+	wo2 da3 suan4 dao4 xiao3 tang2 shan1 lv4 se4 ji1 di4 qu4 you2 wan2
+12171072	我是大连交通车辆工程专业的。
+	wo3 shi4 da4 lian2 jiao1 tong1 che1 liang4 gong1 cheng2 zhuan1 ye4 de5
+12171073	我是拿你当亲姐姐看了。
+	wo3 shi4 na2 ni3 dang1 qin1 jie3 jie5 kan4 le5
+12171074	我梦中的白马王子就是穿成这样的。
+	wo3 meng4 zhong1 de5 bai2 ma3 wang2 zi3 jiu4 shi4 chuan1 cheng2 zhe4 yang4 de5
+12171075	我的事情忙得差不多了。
+	wo3 de5 shi4 qing2 mang2 de5 cha4 bu4 duo1 le5
+12171076	<D></D>我的孩子气管炎发烧了。
+	wo3 de5 hai2 zi5 qi4 guan3 yan2 fa1 shao1 le5
+12171077	我胳膊受了轻伤。
+	wo3 ge1 bo2 shou4 le5 qing1 shang1
+12171078	我要去捐<D></D>眼角膜。
+	wo3 yao4 qu4 juan1 yan2 jiao3 mo2
+12171079	我觉得你比我好像富裕一点呢。
+	wo3 jue2 de5 ni3 bi2 wo2 hao3 xiang4 fu4 yu4 yi4 dian3 ne5
+12171080	<D></D>我觉得我们生活在一起你将非常幸福。
+	wo3 jue2 de5 wo3 men5 sheng1 huo2 zai4 yi4 qi3 ni3 jiang1 fei1 chang2 xing4 fu2
+12171081	我觉得自己上门和他说话有点掉价。
+	wo3 jue2 de5 zi4 ji3 shang4 men2 he2 ta1 shuo1 hua4 you2 dian3 diao4 jia4
+12171082	我还另外赢了三千七。
+	wo3 hai2 ling4 wai4 ying2 le5 san1 qian1 qi1
+12171083	我这人天生心慈手软骗不了人。
+	wo3 zhe4 ren2 tian1 sheng1 xin1 ci2 shou2 ruan3 pian4 bu4 liao3 ren2
+12171084	所以就打我的手机吧。
+	suo2 yi3 jiu4 da2 wo3 de5 shou3 ji1 ba5
+12171085	<D></D>把同班黄光同学带来。
+	ba3 tong2 ban1 huang2 guang1 tong2 xue2 dai4 lai2
+12171086	<D></D>文章老师说给挂名了。
+	wen2 zhang1 lao3 shi1 shuo1 gei3 gua4 ming2 le5
+12171087	春节有空就来坐坐。
+	chun1 jie2 you3 kong4 jiu4 lai2 zuo4 zuo4
+12171088	<G>有吃有喝不用下地</G>。
+	you3 chi1 you3 he1 bu2 yong4 xia4 di4
+12171089	根本就不用买门票。
+	gen1 ben3 jiu4 bu2 yong4 mai3 men2 piao4
+12171090	梦见你手提菜刀气喘吁吁在追头猪。
+	meng4 jian4 ni2 shou3 ti2 cai4 dao1 qi4 chuan3 xu1 xu1 zai4 zhui1 tou2 zhu1
+12171091	毕竟学的知识都是自己的，以后都靠这吃饭。
+	bi4 jing4 xue2 de5 zhi1 shi2 dou1 shi4 zi4 ji3 de5 yi3 hou4 dou1 kao4 zhe4 chi1 fan4
+12171092	<D></D>毕竟想出对付潭永华的办法才是<A>主</A>要的。
+	bi4 jing4 xiang3 chu1 dui4 fu4 tan2 yong3 hua2 de5 ban4 fa3 cai2 shi4 zhu3 yao4 de5
+12171093	没有小孩儿也烦呢。
+	mei2 you2 xiao3 hair2 ye3 fan2 ne5
+12171094	现在能对妹妹说的。
+	xian4 zai4 neng2 dui4 mei4 mei4 shuo1 de5
+12171095	看来他的意思够明确了。
+	kan4 lai2 ta1 de5 yi4 si1 gou4 ming2 que4 le5
+12171096	看看偶看得上<K></K>不。
+	kan4 kan4 ou3 kan4 de5 shang4 bu5
+12171097	<D></D>租用的空间就很省心了。
+	zu1 yong4 de5 kong1 jian1 jiu4 hen2 sheng3 xin1 le5
+12171098	<D></D>经纬公司带仪器来了。
+	jing1 wei3 gong1 si1 dai4 yi2 qi4 lai2 le5
+12171099	给他电脑上装点东西。
+	gei3 ta1 dian4 nao3 shang4 zhuang1 dian3 dong1 xi1
+12171100	给美圆记号是个非常严肃的事情。
+	gei2 mei3 yuan2 ji4 hao4 shi4 ge4 fei1 chang2 yan2 su4 de5 shi4 qing5
+12171101	能达到基本的温饱问题。
+	neng2 da2 dao4 ji1 ben3 de5 wen1 bao3 wen4 ti2
+12171102	自己要善待自己。
+	zi4 ji3 yao4 shan4 dai4 zi4 ji3
+12171103	<D></D>街上有巡夜的巡警。
+	jie1 shang4 you3 xun2 ye4 de5 xun2 jing3
+12171104	还不如傍大款实际。
+	hai2 bu4 ru2 bang4 da4 kuan3 shi2 ji4
+12171105	这不能绝对的说。
+	zhe4 bu4 neng2 jue2 dui4 de5 shuo1
+12171106	这个小李我不是追星族。
+	zhe4 ge5 xiao2 li3 wo3 bu2 shi4 zhui1 xing1 zu2
+12171107	<D></D>这半身不遂装的实在是不像。
+	zhe4 ban4 shen1 bu4 sui2 zhuang1 de5 shi2 zai4 shi4 bu2 xiang4
+12171108	那你还真能蒙到。
+	na4 ni3 hai2 zhen1 neng2 meng1 dao4
+12171109	<D></D>那次我讲的满头大汗。
+	na4 ci4 wo2 jiang3 de5 man3 tou2 da4 han4
+12171110	都是这个行业的尖子。
+	dou1 shi4 zhe4 ge5 hang2 ye4 de5 jian1 zi5
+12171111	<D></D>举杯祝贺那个无忧无虑的黄金般的孩提时代<D></D>，它就像冬夜里的星星，五月的晨露。
+	ju3 bei1 zhu4 he4 nei4 ge4 wu2 you1 wu2 lv4 de5 huang2 jin1 ban1 de5 hai2 ti2 shi2 dai4 ta1 jiu4 xiang4 dong1 ye4 li3 de5 xing1 xing1 wu3 yue4 de5 chen2 lu4
+12171112	<D></D>北京终于迎来了今冬的第一场雪了，在这纷纷<R>扬的</R>扬扬的瑞雪中，祝你元旦快乐，新年快乐！
+	bei3 jing1 zhong1 yu2 ying2 lai2 le5 jin1 dong1 de5 di4 yi1 chang2 xue3 le5 zai4 zhe4 fen1 fen1 yang2 de5 yang2 yang2 de5 rui4 xue3 zhong1 zhu4 ni3 yuan2 dan4 kuai4 le4 xin1 nian2 kuai4 le4
+12171113	<D></D>孩子，主会祝福你的，早拿到房子。
+	hai2 zi3 zhu3 hui4 zhu4 fu2 ni3 de5 zao3 na2 dao4 fang2 zi5
+12171114	我以一颗最真挚的心祝福你。
+	wo2 yi3 yi4 ke1 zui4 zhen1 zhi4 de5 xin1 zhu4 fu2 ni3
+12171115	我都不好意思给你打电话了，也没帮成你，祝你旅<P>途</P>顺利，提前给你全家拜年。
+	wo3 dou1 bu4 hao3 yi4 si1 gei3 ni2 da3 dian4 hua4 le5 ye3 mei2 bang1 cheng2 ni3 zhu4 ni2 lv3 tu2 shun4 li4 ti2 qian2 gei2 ni3 quan2 jia1 bai4 nian2
+12171116	时光飞逝，又到你的生日<D></D>，在此祝你生日快乐。
+	shi2 guang1 fei1 shi4 you4 dao4 ni3 de5 sheng1 ri4 zai4 ci3 zhu4 ni3 sheng1 ri4 kuai4 le4
+12171117	<D></D>终于不用再去<K></K>医院了。愿你天天开心。
+	zhong1 yu2 bu2 yong4 zai4 qu4 yi1 yuan4 le5 yuan4 ni3 tian1 tian1 kai1 xin1
+12171118	<D></D>衷心祝福你，未来的孩他妈！
+	zhong1 xin1 zhu4 fu2 ni3 wei4 lai2 de5 hai2 ta1 ma1
+12171119	<D></D>请我吃饭吧，哈哈，开玩笑呢，祝福你早日找到合适的房子。
+	qing2 wo3 chi1 fan4 ba5 ha1 ha1 kai1 wan2 xiao4 ne5 zhu4 fu2 ni2 zao3 ri4 zhao3 dao4 he2 shi4 de5 fang2 zi5
+12171120	谢谢你的短信亲爱的，祝你好运！
+	xie4 xie4 ni3 de5 duan3 xin4 qin1 ai4 de5 zhu4 ni3 hao3 yun4

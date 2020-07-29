@@ -1,0 +1,240 @@
+11991031	不行啊，不值得。
+	bu4 xing2 a5 bu4 zhi2 de2
+11991032	单位都没有金山词霸，真逗。
+	dan1 wei4 dou1 mei2 you3 jin1 shan1 ci2 ba4 zhen1 dou4
+11991033	对她有想法的话也要排在你后面去了啊！
+	dui4 ta1 you3 xiang2 fa3 de5 hua4 ye3 yao4 pai2 zai4 ni3 hou4 mian4 qv4 le5 a5
+11991034	给我发的邮件我打不开，再试试。
+	gei2 wo3 fa1 de5 you2 jian4 wo2 da3 bu4 kai1 zai4 shi4 shi4
+11991035	好吧，明天见，谢了！
+	hao3 ba5 ming2 tian1 jian4 xie4 le5
+11991036	呵呵，暂时还够。
+	he1 he1 zan4 shi2 hai2 gou4
+11991037	几点？在哪儿？
+	ji2 dian3 zai4 nar3
+11991038	今晚，偶想空一下。
+	jin1 wan3 ou2 xiang3 kong1 yi2 xia4
+11991039	来的较匆忙，忘记了。
+	lai2 de5 jiao4 cong1 mang2 wang4 ji4 le5
+11991040	没事了，今天起来就不疼了，谢谢关心。
+	mei2 shi4 le5 jin1 tian1 qi3 lai2 jiu4 bu4 teng2 le5 xie4 xie5 guan1 xin1
+11991041	那就算了，明天不是周六吗？你再问问他。
+	na4 jiu4 suan4 le5 ming2 tian1 bu2 shi4 zhou1 liu4 ma5 ni3 zai4 wen4 wen5 ta1
+11991042	你爸知道。
+	ni3 ba4 zhi1 dao4
+11991043	你好，怎么样？现在工作挺忙吧！
+	ni2 hao3 zen3 me5 yang4 xian4 zai4 gong1 zuo4 ting3 mang2 ba5
+11991044	你脑子有毛病！
+	ni2 nao3 zi5 you3 mao2 bing4
+11991045	你要相信我！
+	ni3 yao4 xiang1 xin4 wo3
+11991046	你需要我们公司的资料吗？
+	ni3 xv1 yao4 wo3 men5 gong1 si1 de5 zi1 liao4 ma5
+11991047	然后我们去唱歌或者蹦迪，怎么样？
+	ran2 hou4 wo3 men5 qv4 chang4 ge1 huo4 zhe3 beng4 di1 zen3 me5 yang4
+11991048	什么呀，都去五天了，星期一就走了。
+	shen2 me5 ya5 dou1 qv4 wu3 tian1 le5 xing1 qi1 yi1 jiu4 zou3 le5
+11991049	随便吧，反正你是寿星佬。
+	sui2 bian4 ba5 fan3 zheng4 ni3 shi4 shou4 xing1 lao3
+11991050	外面下了好大的雪。
+	wai4 mian4 xia4 le5 hao3 da4 de5 xve3
+11991051	我到了，你们还在肯德基吗？
+	wo3 dao4 le5 ni3 men5 hai2 zai4 ken3 de2 ji1 ma5
+11991052	我会再打电话给你。
+	wo3 hui4 zai4 da3 dian4 hua4 gei2 ni3
+11991053	我们单位派我到这儿学习。
+	wo3 men5 dan1 wei4 pai4 wo3 dao4 zher4 xve2 xi2
+11991054	我十分不舒服。
+	wo3 shi2 fen1 bu4 shu1 fu5
+11991055	我向你道谦还不行吗？
+	wo3 xiang4 ni3 dao4 qian1 hai2 bu4 xing2 ma5
+11991056	我在上班不要老骚扰我呀。我今天挨批啦，你怎么这么笨哪！
+	wo3 zai4 shang4 ban1 bu2 yao4 lao3 sao1 rao2 wo3 ya5 wo3 jin1 tian1 ai1 pi1 la5 ni2 zen3 me5 zhei4 me5 ben4 na5
+11991057	<H></H>下班后给你打电话方便吗？
+	xia4 ban1 hou4 gei3 ni2 da3 dian4 hua4 fang1 bian4 ma5
+11991058	谢谢你一路陪我走过风风雨雨，我真挚的朋友。
+	xie4 xie4 ni3 yi2 lu4 pei2 wo2 zou3 guo4 feng1 feng1 yv2 yv3 wo3 zhen1 zhi4 de5 peng2 you3
+11991059	<D></D>一切都顺利吧？
+	yi2 qie4 dou1 shun4 li4 ba5
+11991060	再等一会儿吧！
+	zai4 deng3 yi4 huir3 ba5
+11991061	这个星期日去通县扫墓，你去吗？
+	zhe4 ge5 xing1 qi1 ri4 qv4 tong1 xian4 sao3 mu4 ni3 qv4 ma5
+11991062	种一千朵玫瑰，让你天天陶醉。
+	zhong4 yi4 qian1 duo3 mei2 gui4 rang4 ni3 tian1 tian1 tao2 zui4
+11991063	坐三五五支下车往回走，再过个桥下就到了。
+	zuo4 san1 wu2 wu3 zhi1 xia4 che1 wang3 hui2 zou3 zai4 guo4 ge4 qiao2 xia4 jiu4 dao4 le5
+11991064	哦，那就这样，你们真仗义！
+	o4 na4 jiu4 zhe4 yang4 ni3 men5 zhen1 zhang4 yi4
+11991065	哎呀，反正是换汤不换药了。
+	ai1 ya1 fan3 zheng4 shi4 huan4 tang1 bu2 huan4 yao4 le5
+11991066	不，我和我朋友在力度家园买的房子。
+	bu4 wo3 he2 wo3 peng2 you3 zai4 li4 du4 jia1 yvan2 mai3 de5 fang2 zi5
+11991067	不知道怎么跟他搭话儿。
+	bu4 zhi1 dao4 zen3 me5 gen1 ta1 da1 huar4
+11991068	到了休息站我给你打电话，你去接我。
+	dao4 le5 xiu1 xi2 zhan4 wo2 gei3 ni2 da3 dian4 hua4 ni3 qv4 jie1 wo3
+11991069	放假后是不是要回家呀？家住在哪儿？
+	fang4 jia4 hou4 shi4 bu5 shi4 yao4 hui2 jia1 ya5 jia1 zhu4 zai4 nar3
+11991070	<D></D>过得挺好的，你今天要注意休息呀。
+	guo4 de5 ting2 hao3 de5 ni3 jin1 tian1 yao4 zhu4 yi4 xiu1 xi3 ya5
+11991071	好的，我没看邮箱呢。
+	hao3 de5 wo3 mei2 kan4 you2 xiang1 ne5
+11991072	后天<I></I>电价就要涨了，赶紧买电吧！
+	hou4 tian1 dian4 jia4 jiu4 yao4 zhang3 le5 gan2 jin2 mai3 dian4 ba5
+11991073	姐姐，这个周末两天都上班吗？我和同学可能去北京玩儿。
+	jie3 jie5 zhe4 ge5 zhou1 mo4 liang3 tian1 dou1 shang4 ban1 ma5 wo3 he2 tong2 xve2 ke3 neng2 qv4 bei3 jing1 wanr2
+11991074	就一个出站口，我穿绿色棉衣和军裤，我在外面等你。
+	jiu4 yi2 ge4 chu1 zhan4 kou3 wo3 chuan1 lv4 se4 miao2 yi1 he2 jvn1 ku4 wo3 zai4 wai4 mian5 deng2 ni3
+11991075	李亮找你没？你去么？
+	li3 liang4 zhao2 ni3 mei2 ni3 qv4 ma5
+11991076	每个人都有愚蠢的时候，但是没有一个人永远愚蠢。你明白吗？
+	mei3 ge4 ren2 dou1 you3 yv2 chun3 de5 shi2 hou4 dan4 shi4 mei2 you3 yi2 ge4 ren2 yong2 yvan3 yv2 chun3 ni3 ming2 bai5 ma5
+11991077	那你学新闻的好找工作吗？
+	na4 ni3 xve2 xin1 wen2 de5 hao2 zhao3 gong1 zuo4 ma5
+11991078	<D></D>你单位的电话是多少？
+	ni3 dan1 wei4 de5 dian4 hua4 shi4 duo1 shao3
+11991079	你健康，大家都会高兴。
+	ni3 jian4 kang1 da4 jia1 dou1 hui4 gao1 xing4
+11991080	你什么时候去角门哪。
+	ni3 shen2 me5 shi2 hou5 qv4 jiao3 men2 na5
+11991081	你在开玩笑吧！
+	ni3 zai4 kai1 wan2 xiao4 ba5
+11991082	七点在你家楼下的烤鸭店见。
+	qi1 dian3 zai4 ni3 jia1 lou2 xia4 de5 kao3 ya1 dian4 jian4
+11991083	如果有一天你疲惫了，别忘了有我一直在你身边。
+	ru2 guo2 you3 yi4 tian1 ni3 pi2 bei4 le5 bie2 wang4 le5 you2 wo3 yi4 zhi2 zai4 ni3 shen1 bian1
+11991084	是的，还有些网络上的东西，上班后有一个离职的人要教我。
+	shi4 de5 hai2 you3 xie1 wang3 luo4 shang4 de5 dong1 xi1 shang4 ban1 hou4 you3 yi2 ge4 li2 zhi2 de5 ren2 yao4 jiao1 wo3
+11991085	他们让我明早九点买后天的票，边没说什么呀。
+	ta1 men5 rang4 wo3 ming2 zao3 jiu2 dian3 mai3 hou4 tian1 de5 piao4 bian1 mei2 shuo1 shen2 me5 ya5
+11991086	网速慢也应该能听啊，你听没听过记得要忘记，很好听的。
+	wang3 su4 man4 ye3 ying1 gai1 neng2 ting1 a5 ni3 ting1 mei2 ting1 guo4 ji4 de5 yao4 wang4 ji4 hen2 hao3 ting1 de5
+11991087	我都快被逼疯啦。
+	wo3 dou1 kuai4 bei4 bi1 feng1 la5
+11991088	我今天晚上要上课，九点下课，如果再过去是不是太晚了？
+	wo3 jin1 tian1 wan3 shang4 yao4 shang4 ke4 jiu2 dian3 xia4 ke4 ru2 guo3 zai4 guo4 qv5 shi4 bu5 shi4 tai4 wan3 le5
+11991089	我们十一点五十下课。
+	wo3 men5 shi2 yi1 dian2 wu3 shi2 xia4 ke4
+11991090	我听说上海到扬州有火车开通了，是吗？
+	wo3 ting1 shuo1 shang4 hai3 dao4 yang2 zhou1 you2 huo3 che1 kai1 tong1 le5 shi4 ma5
+11991091	我也是，挺想你的。
+	wo2 ye3 shi4 ting3 xiang2 ni3 de5
+11991092	<H></H>我这几天要出个小差，你自己在家要小心。
+	wo3 zhe4 ji3 tian1 yao4 chu1 ge4 xiao3 chai1 ni3 zi4 ji3 zai4 jia1 yao4 xiao3 xin1
+11991093	<H></H>现在还是每周都回家吗？
+	xian4 zai4 hai2 shi4 mei3 zhou1 dou1 hui2 jia1 ma5
+11991094	行，你知道我在什么地方？
+	xing2 ni3 zhi1 dao4 wo3 zai4 shen2 me5 di4 fang1
+11991095	用热水泡泡脚会好点。
+	yong4 re4 shui3 pao4 pao4 jiao3 hui4 hao2 dian3
+11991096	在实验室吗？帮我带点东西过来。
+	zai4 shi2 yan4 shi4 ma5 bang1 wo3 dai4 dian3 dong1 xi5 guo4 lai2
+11991097	这是相片地址，能看到吗？
+	zhe4 shi4 xiang4 pian1 di4 zhi3 neng2 kan4 dao4 ma5
+11991098	祝每天都开开心心，快快乐乐！
+	zhu4 mei3 tian1 dou1 kai1 kai1 xin1 xin1 kuai4 kuai4 le4 le4
+11991099	噢，在调我胃口啊。
+	o4 zai4 diao4 wo3 wei4 kou3 a5
+11991100	我觉得他不会骗你的。
+	wo3 jve2 de5 ta1 bu2 hui4 pian4 ni3 de5
+11991101	爸爸辛苦了！
+	ba4 ba5 xin1 ku3 le5
+11991102	不会，本身机位就不多。
+	bu2 hui4 ben3 shen1 ji1 wei4 jiu4 bu4 duo1
+11991103	出差在外，一切都要小心，记住给家里打电话。
+	chu1 chai1 zai4 wai4 yi2 qie4 dou1 yao4 xiao3 xin1 ji4 zhu4 gei3 jia1 li2 da3 dian4 hua4
+11991104	电视有什么好看的，又是海啸又是十三亿人出生<D></D>，真是没劲儿。
+	dian4 shi4 you3 shen2 me5 hao3 kan4 de5 you4 shi4 hai3 xiao4 you4 shi4 shi2 san1 yi4 ren2 chu1 sheng1 zhen1 shi4 mei2 jinr4
+11991105	干啥呢<D></D>，等你回信呢。
+	gan4 sha2 ne5 deng2 ni3 hui2 xin4 ne5
+11991106	哈哈哈，干什么哪？
+	ha1 ha1 ha1 gan4 shen2 me5 na5
+11991107	好久不联系了，你还在双安吗？
+	hao2 jiu3 bu4 lian2 xi4 le5 ni3 hai2 zai4 shuang1 an1 ma5
+11991108	还没想呢，也许吃一顿饭罢了。
+	hai2 mei2 xiang3 ne5 ye2 xv3 chi1 yi2 dun4 fan4 ba4 le5
+11991109	今<B>天</B>你好吗？
+	jin1 tian4 ni2 hao3 ma5
+11991110	考试给了他很大的压力。
+	kao3 shi4 gei3 le5 ta1 hen3 da4 de5 ya1 li4
+11991111	马上要进站了。
+	ma3 shang4 yao4 jin4 zhan4 le5
+11991112	明天我要去姑家，晚上尽早<K></K>过你那儿去，后天有事儿吗？
+	ming2 tian1 wo3 yao4 qv4 gu1 jia1 wan3 shang4 jin4 zao3 guo4 ni3 nar4 qv4 hou4 tian1 you3 shir4 ma5
+11991113	那我试一下吧！
+	na4 wo3 shi4 yi2 xia4 ba5
+11991114	你的支持和帮助让我学了不少东西，谢谢！
+	ni3 de5 zhi1 chi2 he2 bang1 zhu4 rang4 wo3 xve2 le5 bu4 shao3 dong1 xi5 xie4 xie5
+11991115	你来不来接我？
+	ni3 lai2 bu5 lai2 jie1 wo3
+11991116	你喜<A>欢</A>吃饺子吗？
+	ni2 xi3 huan1 chi1 jiao3 zi5 ma5
+11991117	你这周末有空吗？我去植物园玩吧！
+	ni3 zhe4 zhou1 mo4 you3 kong4 ma5 wo3 qv4 zhi2 wu4 yvan2 wan2 ba5
+11991118	请帮我把衣服收进来吧，好像要下雨了，谢谢。
+	qing3 bang1 wo2 ba3 yi1 fu5 shou1 jin4 lai2 ba5 hao3 xiang4 yao4 xia4 yv3 le5 xie4 xie5
+11991119	身体不适是吗？
+	shen1 ti3 bu2 shi4 shi4 ma5
+11991120	是啊，过来吧。我家没人就我一人在家呢。
+	shi4 a5 guo4 lai2 ba5 wo3 jia1 mei2 ren2 jiu4 wo3 yi4 ren2 zai4 jia1 ne5
+11991121	太不准了，一定是你改了答案，你选的是什么？
+	tai4 bu4 zhun3 le5 yi2 ding4 shi4 ni2 gai3 le5 da2 an4 ni2 xvan3 de5 shi4 shen2 me5
+11991122	我并不是有意的。能原谅我吗？亲爱的。
+	wo3 bing4 bu2 shi4 you3 yi4 de5 neng2 yvan2 liang4 wo3 ma5 qin1 ai4 de5
+11991123	我告诉他了<A></A>，但他感觉很平淡。
+	wo3 gao4 su5 ta1 le5 dan4 ta1 gan3 jve2 hen3 ping2 dan4
+11991124	我看你太累了。
+	wo3 kan4 ni3 tai4 lei4 le5
+11991125	我明年结婚，你来吗<I></I>？
+	wo3 ming2 nian2 jie2 hun1 ni3 lai2 ma5
+11991126	我现在你<K></K>大表姐家。
+	wo3 xian4 zai4 ni3 da4 biao2 jie3 jia1
+11991127	我有部旧手机想卖，你帮我问问价钱好吗？
+	wo2 you3 bu4 jiu4 shou3 ji1 xiang3 mai4 ni3 bang1 wo3 wen4 wen5 jia4 qian2 hao3 ma5
+11991128	我准备换一部手机。
+	wo2 zhun3 bei4 huan4 yi2 bu4 shou3 ji1
+11991129	向你们全家问好。
+	xiang4 ni3 men5 qvan2 jia1 wen4 hao3
+11991130	要买什么吗？
+	yao4 mai3 shen2 me5 ma5
+11991131	有时间咱们一起聚聚吧！
+	you3 shi2 jian1 zan2 men5 yi4 qi3 jv4 jv5 ba5
+11991132	早上锻练身体。
+	zao3 shang4 duan4 lian4 shen1 ti3
+11991133	真乖，你可是第一个祝我圣诞节快乐的家伙！
+	zhen1 guai1 ni2 ke3 shi4 di4 yi1 ge4 zhu4 wo3 sheng4 dan4 jie2 kuai4 le4 de5 jia1 huo5
+11991134	<D></D>走自己的路，让别人说去吧！
+	zou3 zi4 ji3 de5 lu4 rang4 bie2 ren2 shuo1 qv4 ba5
+11991135	经贸。
+	jing1 mao4
+11991136	医生说要提前半年开始吃叶酸。
+	yi1 sheng1 shuo1 yao4 ti2 qian2 ban4 nian2 kai1 shi3 chi1 ye4 suan1
+11991137	宝贝早上好！现在没事了吧！
+	bao3 bei4 zao3 shang4 hao3 xian4 zai4 mei2 shi4 le5 ba5
+11991138	不是吧，好像说晚上有雨加雪，天哪，那个是正确的呢？
+	bu2 shi4 ba5 hao3 xiang4 shuo1 wan3 shang4 you2 yv3 jia1 xve3 tian1 na5 na4 ge4 shi4 zheng4 qve4 de5 ne5
+11991139	打网球去！
+	da2 wang3 qiu2 qv4
+11991140	对不起，昨天是我不好，以后我会注意的啦。
+	dui4 bu5 qi3 zuo2 tian1 shi4 wo3 bu4 hao3 yi3 hou4 wo3 hui4 zhu4 yi4 de5 la5
+11991141	刚验完货，还得把阳台的玻璃门找木棍<B>或</B>铁条卡住<D></D>，整理好东西才能回家！
+	gang1 yan4 wan2 huo4 hai2 dei2 ba3 yang2 tai2 de5 bo1 li5 men2 zhao3 mu4 gun4 huo2 tie3 tiao2 qia3 zhu4 zheng2 li2 hao3 dong1 xi5 cai2 neng2 hui2 jia1
+11991142	好，祝贺你，咱再联系。
+	hao3 zhu4 he4 ni3 zan2 zai4 lian2 xi4
+11991143	呵呵，北京开始下大了。
+	he1 he1 bei3 jing1 kai1 shi3 xia4 da4 le5
+11991144	回来了吗？我家还有饺子呢过来吃吧！
+	hui2 lai2 le5 ma5 wo3 jia1 hai2 you2 jiao3 zi5 ne5 guo4 lai2 chi1 ba5
+11991145	今天下午没事儿我去超市看看。
+	jin1 tian1 xia4 wu3 mei2 shir4 wo3 qv4 chao1 shi4 kan4 kan5
+11991146	快到了吗？我一会儿就走。
+	kuai4 dao4 le5 ma5 wo3 yi4 huir3 jiu4 zou3
+11991147	没什么，我什么也没做。
+	mei2 shen2 me5 wo3 shen2 me5 ye3 mei2 zuo4
+11991148	那好，没关系，我只是在考虑要不要去办游泳卡？
+	na4 hao3 mei2 guan1 xi5 wo2 zhi3 shi4 zai4 kao3 lv4 yao4 bu5 yao4 qv4 ban4 you2 yong2 ka3
+11991149	能参加，但单位在石景山<D></D>，离录音室远，我可能下午四点左右到，可以吗？
+	neng2 can1 jia1 dan4 dan1 wei4 zai4 shi2 jing3 shan1 li2 lu4 yin1 shi4 yvan3 wo2 ke3 neng2 xia4 wu3 si4 dian2 zuo3 you4 dao4 ke2 yi3 ma5
+11991150	你寒假有安排吗，什么时候开学呀？
+	ni3 han2 jia4 you3 an1 pai2 ma5 shen2 me5 shi2 hou5 kai1 xve2 ya5
